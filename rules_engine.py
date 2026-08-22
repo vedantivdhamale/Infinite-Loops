@@ -1,117 +1,92 @@
 """
 Person 3 - Rules Engine Developer
-Fast, deterministic hard-block layer. Runs BEFORE the weighted scoring engine
-(Person 4). If a rule fires, we short-circuit straight to a verdict instead
-of computing a score - inspired by RailHawk's "Layer 1: Rules Engine" idea,
-simplified to plain Python (no YAML hot-reload needed for a hackathon).
+Fast, deterministic hard-block layer. Runs BEFORE any scoring - if a
+transaction trips a rule here, it's blocked outright (HARD_BLOCK) and
+Person 4's behavioral scoring is skipped entirely (score=100, Critical).
 
 Usage:
-    from rules_engine import apply_rules, apply_rules_to_dataframe
+    from rules_engine import apply_rules_to_dataframe
+    rules_df = apply_rules_to_dataframe(df)
+    # -> DataFrame with: transaction_id, rule_verdict, rule_reasons
+
+Smoke test:
+    python rules_engine.py transactions.csv
 """
 
 import pandas as pd
 
-# --- Config: adjust these thresholds as needed ------------------------------
+# --- Thresholds (tune these once you see real data) -------------------------
 
-BLOCKLISTED_DEVICES = {"dev_blk_001", "dev_blk_002"}
-BLOCKLISTED_BENEFICIARIES = {"benef_blk_001"}
-
+VELOCITY_MAX_TXNS = 5              # 5+ txns by same customer in the window -> block
 VELOCITY_WINDOW_MINUTES = 2
-VELOCITY_MAX_TXNS = 5        # more than this many txns in the window -> block
-HARD_AMOUNT_CEILING = 200000  # any single transaction above this -> block
+
+HARD_AMOUNT_CEILING = 200_000      # any single txn above this -> block
+
+BLOCKLISTED_DEVICES = ["dev_blk_001", "dev_blk_002"]
+BLOCKLISTED_BENEFICIARIES = ["benef_blk_001"]
+BLOCKLISTED_LOCATIONS = ["Unknown", "XX"]
 
 # -----------------------------------------------------------------------------
 
 
-def check_blocklisted_device(row):
-    if row["device_id"] in BLOCKLISTED_DEVICES:
-        return "Device is on the blocklist"
-    return None
-
-
-def check_blocklisted_beneficiary(row):
-    if row["beneficiary_id"] in BLOCKLISTED_BENEFICIARIES:
-        return "Beneficiary is on the blocklist"
-    return None
-
-
-def check_hard_amount_ceiling(row):
-    if row["amount"] > HARD_AMOUNT_CEILING:
-        return f"Transaction amount exceeds hard ceiling of {HARD_AMOUNT_CEILING}"
-    return None
-
-
-def check_velocity(row, customer_txns_df):
-    """
-    customer_txns_df: all transactions for this customer (with 'timestamp' as
-    datetime), used to count how many fall within VELOCITY_WINDOW_MINUTES of
-    this transaction.
-    """
-    ts = row["timestamp"]
-    window_start = ts - pd.Timedelta(minutes=VELOCITY_WINDOW_MINUTES)
-    window_end = ts + pd.Timedelta(minutes=VELOCITY_WINDOW_MINUTES)
-
-    nearby = customer_txns_df[
-        (customer_txns_df["timestamp"] >= window_start)
-        & (customer_txns_df["timestamp"] <= window_end)
+def _velocity_count(customer_txns, ts, window_minutes):
+    """How many of this customer's transactions fall in [ts - window, ts]."""
+    window_start = ts - pd.Timedelta(minutes=window_minutes)
+    nearby = customer_txns[
+        (customer_txns["timestamp"] >= window_start) & (customer_txns["timestamp"] <= ts)
     ]
-    if len(nearby) > VELOCITY_MAX_TXNS:
-        return f"{len(nearby)} transactions within a {VELOCITY_WINDOW_MINUTES}-minute window"
-    return None
-
-
-def apply_rules(row, customer_txns_df):
-    """
-    Runs all hard-block checks for a single transaction row.
-
-    Returns:
-        dict: {
-            "verdict": "HARD_BLOCK" | "PASS",
-            "triggered_rules": [list of reason strings, empty if PASS]
-        }
-    """
-    checks = [
-        check_blocklisted_device(row),
-        check_blocklisted_beneficiary(row),
-        check_hard_amount_ceiling(row),
-        check_velocity(row, customer_txns_df),
-    ]
-    triggered = [c for c in checks if c is not None]
-
-    if triggered:
-        return {"verdict": "HARD_BLOCK", "triggered_rules": triggered}
-    return {"verdict": "PASS", "triggered_rules": []}
+    return len(nearby)
 
 
 def apply_rules_to_dataframe(df):
     """
-    Runs apply_rules() across an entire transactions dataframe.
-
-    Expects df to have columns: transaction_id, customer_id, timestamp,
-    channel, amount, location, device_id, beneficiary_id.
-    'timestamp' will be converted to datetime if not already.
+    Expects df to have: transaction_id, customer_id, timestamp, channel,
+    amount, location, device_id, beneficiary_id.
 
     Returns:
-        pd.DataFrame with two new columns: 'rule_verdict', 'rule_reasons'
+        pd.DataFrame with columns:
+            transaction_id
+            rule_verdict   - "HARD_BLOCK" or "PASS"
+            rule_reasons   - list[str], empty list when verdict is PASS
     """
     df = df.copy()
     df["timestamp"] = pd.to_datetime(df["timestamp"])
 
-    verdicts = []
-    reasons_list = []
-
-    # group once for efficiency instead of filtering inside the loop
+    # pre-group once so the velocity check doesn't re-filter the whole df per row
     grouped = {cid: g for cid, g in df.groupby("customer_id")}
 
-    for _, row in df.iterrows():
-        customer_txns = grouped[row["customer_id"]]
-        result = apply_rules(row, customer_txns)
-        verdicts.append(result["verdict"])
-        reasons_list.append(result["triggered_rules"])
+    rows = []
+    for _, row in df.sort_values("timestamp").iterrows():
+        reasons = []
 
-    df["rule_verdict"] = verdicts
-    df["rule_reasons"] = reasons_list
-    return df
+        if row.get("device_id") in BLOCKLISTED_DEVICES:
+            reasons.append("Device is on the blocklist")
+        if row.get("beneficiary_id") in BLOCKLISTED_BENEFICIARIES:
+            reasons.append("Beneficiary is on the blocklist")
+        if row.get("location") in BLOCKLISTED_LOCATIONS:
+            reasons.append("Location is blacklisted")
+        if row["amount"] > HARD_AMOUNT_CEILING:
+            reasons.append(f"Amount exceeds hard ceiling of {HARD_AMOUNT_CEILING}")
+
+        n_recent = _velocity_count(
+            grouped[row["customer_id"]], row["timestamp"], VELOCITY_WINDOW_MINUTES
+        )
+        if n_recent >= VELOCITY_MAX_TXNS:
+            reasons.append(
+                f"{n_recent} transactions within a {VELOCITY_WINDOW_MINUTES}-minute window"
+            )
+
+        rows.append({
+            "transaction_id": row["transaction_id"],
+            "rule_verdict": "HARD_BLOCK" if reasons else "PASS",
+            "rule_reasons": reasons,
+        })
+
+    # restore original row order (we sorted by timestamp above)
+    result = pd.DataFrame(rows)
+    order = df["transaction_id"].tolist()
+    result = result.set_index("transaction_id").loc[order].reset_index()
+    return result
 
 
 if __name__ == "__main__":
@@ -120,9 +95,13 @@ if __name__ == "__main__":
 
     path = sys.argv[1] if len(sys.argv) > 1 else "transactions.csv"
     df = pd.read_csv(path)
-    result_df = apply_rules_to_dataframe(df)
 
-    blocked = result_df[result_df["rule_verdict"] == "HARD_BLOCK"]
-    print(f"Total transactions: {len(result_df)}")
-    print(f"Hard-blocked: {len(blocked)}")
-    print(blocked[["transaction_id", "customer_id", "rule_reasons"]].head(10))
+    result = apply_rules_to_dataframe(df)
+    merged = df.merge(result, on="transaction_id")
+
+    blocked = merged[merged["rule_verdict"] == "HARD_BLOCK"]
+    print(f"{len(blocked)} of {len(merged)} transactions HARD_BLOCKed\n")
+    print(blocked[["transaction_id", "customer_id", "device_id", "beneficiary_id",
+                    "location", "amount", "rule_reasons"]].head(20).to_string())
+
+    print(f"\n{len(merged) - len(blocked)} transactions PASSed to scoring.")
