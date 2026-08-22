@@ -1,0 +1,2024 @@
+[
+  {
+    "customer_id": "cust_rule_000",
+    "overall_risk_score": 100,
+    "overall_risk_level": "Critical",
+    "total_transactions": 6,
+    "flagged_transactions": 6,
+    "distinct_channels_used": 4,
+    "total_amount": 8137.59,
+    "avg_amount": 1356.26,
+    "top_reasons": [
+      "Customer used 4 different channels within a short time window",
+      "6 transactions detected in a short time window",
+      "Transaction made from a device not seen before for this customer",
+      "5 transactions within a 2-minute window",
+      "6 transactions within a 2-minute window"
+    ],
+    "recommended_action": "Manual Review"
+  },
+  {
+    "customer_id": "cust_rule_001",
+    "overall_risk_score": 100,
+    "overall_risk_level": "Critical",
+    "total_transactions": 1,
+    "flagged_transactions": 1,
+    "distinct_channels_used": 1,
+    "total_amount": 3326.89,
+    "avg_amount": 3326.89,
+    "top_reasons": [
+      "Beneficiary is on the blocklist"
+    ],
+    "recommended_action": "Manual Review"
+  },
+  {
+    "customer_id": "cust_rule_002",
+    "overall_risk_score": 100,
+    "overall_risk_level": "Critical",
+    "total_transactions": 6,
+    "flagged_transactions": 6,
+    "distinct_channels_used": 4,
+    "total_amount": 6390.54,
+    "avg_amount": 1065.09,
+    "top_reasons": [
+      "Customer used 4 different channels within a short time window",
+      "6 transactions detected in a short time window",
+      "Transaction made from a device not seen before for this customer",
+      "5 transactions within a 2-minute window",
+      "6 transactions within a 2-minute window"
+    ],
+    "recommended_action": "Manual Review"
+  },
+  {
+    "customer_id": "cust_rule_003",
+    "overall_risk_score": 100,
+    "overall_risk_level": "Critical",
+    "total_transactions": 1,
+    "flagged_transactions": 1,
+    "distinct_channels_used": 1,
+    "total_amount": 3601.14,
+    "avg_amount": 3601.14,
+    "top_reasons": [
+      "Beneficiary is on the blocklist"
+    ],
+    "recommended_action": "Manual Review"
+  },
+  {
+    "customer_id": "cust_rule_004",
+    "overall_risk_score": 100,
+    "overall_risk_level": "Critical",
+    "total_transactions": 1,
+    "flagged_transactions": 1,
+    "distinct_channels_used": 1,
+    "total_amount": 3485.45,
+    "avg_amount": 3485.45,
+    "top_reasons": [
+      "Device is on the blocklist"
+    ],
+    "recommended_action": "Manual Review"
+  },
+  {
+    "customer_id": "cust_rule_005",
+    "overall_risk_score": 100,
+    "overall_risk_level": "Critical",
+    "total_transactions": 1,
+    "flagged_transactions": 1,
+    "distinct_channels_used": 1,
+    "total_amount": 2883.44,
+    "avg_amount": 2883.44,
+    "top_reasons": [
+      "Device is on the blocklist"
+    ],
+    "recommended_action": "Manual Review"
+  },
+  {
+    "customer_id": "cust_rule_006",
+    "overall_risk_score": 100,
+    "overall_risk_level": "Critical",
+    "total_transactions": 6,
+    "flagged_transactions": 6,
+    "distinct_channels_used": 3,
+    "total_amount": 8026.69,
+    "avg_amount": 1337.78,
+    "top_reasons": [
+      "Customer used 3 different channels within a short time window",
+      "6 transactions detected in a short time window",
+      "Transaction made from a device not seen before for this customer",
+      "5 transactions within a 2-minute window",
+      "6 transactions within a 2-minute window"
+    ],
+    "recommended_action": "Manual Review"
+  },
+  {
+    "customer_id": "cust_rule_007",
+    "overall_risk_score": 100,
+    "overall_risk_level": "Critical",
+    "total_transactions": 1,
+    "flagged_transactions": 1,
+    "distinct_channels_used": 1,
+    "total_amount": 3485.03,
+    "avg_amount": 3485.03,
+    "top_reasons": [
+      "Device is on the blocklist"
+    ],
+    "recommended_action": "Manual Review"
+  },
+  {
+    "customer_id": "cust_susp_000",
+    "overall_risk_score": 65,
+    "overall_risk_level": "High",
+    "total_transactions": 4,
+    "flagged_transactions": 4,
+    "distinct_channels_used": 4,
+    "total_amount": 31111.5,
+    "avg_amount": 7777.88,
+    "top_reasons": [
+      "Customer used 4 different channels within a short time window",
+      "4 transactions detected in a short time window",
+      "Transaction made from a device not seen before for this customer"
+    ],
+    "recommended_action": "Manual Review"
+  },
+  {
+    "customer_id": "cust_susp_001",
+    "overall_risk_score": 65,
+    "overall_risk_level": "High",
+    "total_transactions": 4,
+    "flagged_transactions": 4,
+    "distinct_channels_used": 4,
+    "total_amount": 31089.03,
+    "avg_amount": 7772.26,
+    "top_reasons": [
+      "Customer used 4 different channels within a short time window",
+      "4 transactions detected in a short time window",
+      "Transaction made from a device not seen before for this customer"
+    ],
+    "recommended_action": "Manual Review"
+  },
+  {
+    "customer_id": "cust_susp_009",
+    "overall_risk_score": 65,
+    "overall_risk_level": "High",
+    "total_transactions": 4,
+    "flagged_transactions": 4,
+    "distinct_channels_used": 4,
+    "total_amount": 34558.97,
+    "avg_amount": 8639.74,
+    "top_reasons": [
+      "Customer used 4 different channels within a short time window",
+      "4 transactions detected in a short time window",
+      "Transaction made from a device not seen before for this customer"
+    ],
+    "recommended_action": "Manual Review"
+  },
+  {
+    "customer_id": "cust_susp_011",
+    "overall_risk_score": 65,
+    "overall_risk_level": "High",
+    "total_transactions": 4,
+    "flagged_transactions": 4,
+    "distinct_channels_used": 4,
+    "total_amount": 34860.0,
+    "avg_amount": 8715.0,
+    "top_reasons": [
+      "Customer used 4 different channels within a short time window",
+      "4 transactions detected in a short time window",
+      "Transaction made from a device not seen before for this customer"
+    ],
+    "recommended_action": "Manual Review"
+  },
+  {
+    "customer_id": "cust_susp_012",
+    "overall_risk_score": 65,
+    "overall_risk_level": "High",
+    "total_transactions": 4,
+    "flagged_transactions": 4,
+    "distinct_channels_used": 4,
+    "total_amount": 65286.96,
+    "avg_amount": 16321.74,
+    "top_reasons": [
+      "Customer used 4 different channels within a short time window",
+      "4 transactions detected in a short time window",
+      "Transaction made from a device not seen before for this customer"
+    ],
+    "recommended_action": "Manual Review"
+  },
+  {
+    "customer_id": "cust_susp_013",
+    "overall_risk_score": 65,
+    "overall_risk_level": "High",
+    "total_transactions": 4,
+    "flagged_transactions": 4,
+    "distinct_channels_used": 4,
+    "total_amount": 32393.28,
+    "avg_amount": 8098.32,
+    "top_reasons": [
+      "Customer used 4 different channels within a short time window",
+      "4 transactions detected in a short time window",
+      "Transaction made from a device not seen before for this customer"
+    ],
+    "recommended_action": "Manual Review"
+  },
+  {
+    "customer_id": "cust_susp_014",
+    "overall_risk_score": 65,
+    "overall_risk_level": "High",
+    "total_transactions": 4,
+    "flagged_transactions": 4,
+    "distinct_channels_used": 4,
+    "total_amount": 57016.27,
+    "avg_amount": 14254.07,
+    "top_reasons": [
+      "Customer used 4 different channels within a short time window",
+      "4 transactions detected in a short time window",
+      "Transaction made from a device not seen before for this customer"
+    ],
+    "recommended_action": "Manual Review"
+  },
+  {
+    "customer_id": "cust_susp_002",
+    "overall_risk_score": 45,
+    "overall_risk_level": "Medium",
+    "total_transactions": 3,
+    "flagged_transactions": 3,
+    "distinct_channels_used": 3,
+    "total_amount": 29035.06,
+    "avg_amount": 9678.35,
+    "top_reasons": [
+      "Customer used 3 different channels within a short time window",
+      "Transaction made from a device not seen before for this customer"
+    ],
+    "recommended_action": "Monitor"
+  },
+  {
+    "customer_id": "cust_susp_003",
+    "overall_risk_score": 45,
+    "overall_risk_level": "Medium",
+    "total_transactions": 3,
+    "flagged_transactions": 3,
+    "distinct_channels_used": 3,
+    "total_amount": 18205.72,
+    "avg_amount": 6068.57,
+    "top_reasons": [
+      "Customer used 3 different channels within a short time window",
+      "Transaction made from a device not seen before for this customer"
+    ],
+    "recommended_action": "Monitor"
+  },
+  {
+    "customer_id": "cust_susp_004",
+    "overall_risk_score": 45,
+    "overall_risk_level": "Medium",
+    "total_transactions": 3,
+    "flagged_transactions": 3,
+    "distinct_channels_used": 3,
+    "total_amount": 45099.0,
+    "avg_amount": 15033.0,
+    "top_reasons": [
+      "Customer used 3 different channels within a short time window",
+      "Transaction made from a device not seen before for this customer"
+    ],
+    "recommended_action": "Monitor"
+  },
+  {
+    "customer_id": "cust_susp_005",
+    "overall_risk_score": 45,
+    "overall_risk_level": "Medium",
+    "total_transactions": 3,
+    "flagged_transactions": 3,
+    "distinct_channels_used": 3,
+    "total_amount": 23236.39,
+    "avg_amount": 7745.46,
+    "top_reasons": [
+      "Customer used 3 different channels within a short time window",
+      "Transaction made from a device not seen before for this customer"
+    ],
+    "recommended_action": "Monitor"
+  },
+  {
+    "customer_id": "cust_susp_006",
+    "overall_risk_score": 45,
+    "overall_risk_level": "Medium",
+    "total_transactions": 3,
+    "flagged_transactions": 3,
+    "distinct_channels_used": 3,
+    "total_amount": 23748.79,
+    "avg_amount": 7916.26,
+    "top_reasons": [
+      "Customer used 3 different channels within a short time window",
+      "Transaction made from a device not seen before for this customer"
+    ],
+    "recommended_action": "Monitor"
+  },
+  {
+    "customer_id": "cust_susp_007",
+    "overall_risk_score": 45,
+    "overall_risk_level": "Medium",
+    "total_transactions": 3,
+    "flagged_transactions": 3,
+    "distinct_channels_used": 3,
+    "total_amount": 36693.7,
+    "avg_amount": 12231.23,
+    "top_reasons": [
+      "Customer used 3 different channels within a short time window",
+      "Transaction made from a device not seen before for this customer"
+    ],
+    "recommended_action": "Monitor"
+  },
+  {
+    "customer_id": "cust_susp_008",
+    "overall_risk_score": 45,
+    "overall_risk_level": "Medium",
+    "total_transactions": 3,
+    "flagged_transactions": 3,
+    "distinct_channels_used": 3,
+    "total_amount": 31016.85,
+    "avg_amount": 10338.95,
+    "top_reasons": [
+      "Customer used 3 different channels within a short time window",
+      "Transaction made from a device not seen before for this customer"
+    ],
+    "recommended_action": "Monitor"
+  },
+  {
+    "customer_id": "cust_susp_010",
+    "overall_risk_score": 45,
+    "overall_risk_level": "Medium",
+    "total_transactions": 3,
+    "flagged_transactions": 3,
+    "distinct_channels_used": 3,
+    "total_amount": 22010.47,
+    "avg_amount": 7336.82,
+    "top_reasons": [
+      "Customer used 3 different channels within a short time window",
+      "Transaction made from a device not seen before for this customer"
+    ],
+    "recommended_action": "Monitor"
+  },
+  {
+    "customer_id": "cust_0000",
+    "overall_risk_score": 15,
+    "overall_risk_level": "Low",
+    "total_transactions": 8,
+    "flagged_transactions": 0,
+    "distinct_channels_used": 1,
+    "total_amount": 4856.56,
+    "avg_amount": 607.07,
+    "top_reasons": [
+      "Transaction made from a device not seen before for this customer"
+    ],
+    "recommended_action": "Allow"
+  },
+  {
+    "customer_id": "cust_0001",
+    "overall_risk_score": 15,
+    "overall_risk_level": "Low",
+    "total_transactions": 5,
+    "flagged_transactions": 0,
+    "distinct_channels_used": 1,
+    "total_amount": 4219.54,
+    "avg_amount": 843.91,
+    "top_reasons": [
+      "Transaction made from a device not seen before for this customer"
+    ],
+    "recommended_action": "Allow"
+  },
+  {
+    "customer_id": "cust_0002",
+    "overall_risk_score": 15,
+    "overall_risk_level": "Low",
+    "total_transactions": 5,
+    "flagged_transactions": 0,
+    "distinct_channels_used": 1,
+    "total_amount": 21830.78,
+    "avg_amount": 4366.16,
+    "top_reasons": [
+      "Transaction made from a device not seen before for this customer"
+    ],
+    "recommended_action": "Allow"
+  },
+  {
+    "customer_id": "cust_0003",
+    "overall_risk_score": 15,
+    "overall_risk_level": "Low",
+    "total_transactions": 6,
+    "flagged_transactions": 0,
+    "distinct_channels_used": 1,
+    "total_amount": 26235.65,
+    "avg_amount": 4372.61,
+    "top_reasons": [
+      "Transaction made from a device not seen before for this customer"
+    ],
+    "recommended_action": "Allow"
+  },
+  {
+    "customer_id": "cust_0004",
+    "overall_risk_score": 15,
+    "overall_risk_level": "Low",
+    "total_transactions": 4,
+    "flagged_transactions": 0,
+    "distinct_channels_used": 1,
+    "total_amount": 15301.52,
+    "avg_amount": 3825.38,
+    "top_reasons": [
+      "Transaction made from a device not seen before for this customer"
+    ],
+    "recommended_action": "Allow"
+  },
+  {
+    "customer_id": "cust_0005",
+    "overall_risk_score": 15,
+    "overall_risk_level": "Low",
+    "total_transactions": 8,
+    "flagged_transactions": 0,
+    "distinct_channels_used": 1,
+    "total_amount": 26481.6,
+    "avg_amount": 3310.2,
+    "top_reasons": [
+      "Transaction made from a device not seen before for this customer"
+    ],
+    "recommended_action": "Allow"
+  },
+  {
+    "customer_id": "cust_0006",
+    "overall_risk_score": 15,
+    "overall_risk_level": "Low",
+    "total_transactions": 8,
+    "flagged_transactions": 0,
+    "distinct_channels_used": 1,
+    "total_amount": 10139.69,
+    "avg_amount": 1267.46,
+    "top_reasons": [
+      "Transaction made from a device not seen before for this customer"
+    ],
+    "recommended_action": "Allow"
+  },
+  {
+    "customer_id": "cust_0007",
+    "overall_risk_score": 15,
+    "overall_risk_level": "Low",
+    "total_transactions": 7,
+    "flagged_transactions": 0,
+    "distinct_channels_used": 1,
+    "total_amount": 33154.86,
+    "avg_amount": 4736.41,
+    "top_reasons": [
+      "Transaction made from a device not seen before for this customer"
+    ],
+    "recommended_action": "Allow"
+  },
+  {
+    "customer_id": "cust_0008",
+    "overall_risk_score": 15,
+    "overall_risk_level": "Low",
+    "total_transactions": 4,
+    "flagged_transactions": 0,
+    "distinct_channels_used": 1,
+    "total_amount": 14425.46,
+    "avg_amount": 3606.37,
+    "top_reasons": [
+      "Transaction made from a device not seen before for this customer"
+    ],
+    "recommended_action": "Allow"
+  },
+  {
+    "customer_id": "cust_0009",
+    "overall_risk_score": 15,
+    "overall_risk_level": "Low",
+    "total_transactions": 3,
+    "flagged_transactions": 0,
+    "distinct_channels_used": 1,
+    "total_amount": 2576.91,
+    "avg_amount": 858.97,
+    "top_reasons": [
+      "Transaction made from a device not seen before for this customer"
+    ],
+    "recommended_action": "Allow"
+  },
+  {
+    "customer_id": "cust_0010",
+    "overall_risk_score": 15,
+    "overall_risk_level": "Low",
+    "total_transactions": 4,
+    "flagged_transactions": 0,
+    "distinct_channels_used": 1,
+    "total_amount": 10449.53,
+    "avg_amount": 2612.38,
+    "top_reasons": [
+      "Transaction made from a device not seen before for this customer"
+    ],
+    "recommended_action": "Allow"
+  },
+  {
+    "customer_id": "cust_0011",
+    "overall_risk_score": 15,
+    "overall_risk_level": "Low",
+    "total_transactions": 6,
+    "flagged_transactions": 0,
+    "distinct_channels_used": 1,
+    "total_amount": 30640.79,
+    "avg_amount": 5106.8,
+    "top_reasons": [
+      "Transaction made from a device not seen before for this customer"
+    ],
+    "recommended_action": "Allow"
+  },
+  {
+    "customer_id": "cust_0012",
+    "overall_risk_score": 15,
+    "overall_risk_level": "Low",
+    "total_transactions": 4,
+    "flagged_transactions": 0,
+    "distinct_channels_used": 1,
+    "total_amount": 19804.24,
+    "avg_amount": 4951.06,
+    "top_reasons": [
+      "Transaction made from a device not seen before for this customer"
+    ],
+    "recommended_action": "Allow"
+  },
+  {
+    "customer_id": "cust_0013",
+    "overall_risk_score": 15,
+    "overall_risk_level": "Low",
+    "total_transactions": 7,
+    "flagged_transactions": 0,
+    "distinct_channels_used": 1,
+    "total_amount": 34576.88,
+    "avg_amount": 4939.55,
+    "top_reasons": [
+      "Transaction made from a device not seen before for this customer"
+    ],
+    "recommended_action": "Allow"
+  },
+  {
+    "customer_id": "cust_0014",
+    "overall_risk_score": 15,
+    "overall_risk_level": "Low",
+    "total_transactions": 6,
+    "flagged_transactions": 0,
+    "distinct_channels_used": 1,
+    "total_amount": 18508.56,
+    "avg_amount": 3084.76,
+    "top_reasons": [
+      "Transaction made from a device not seen before for this customer"
+    ],
+    "recommended_action": "Allow"
+  },
+  {
+    "customer_id": "cust_0015",
+    "overall_risk_score": 15,
+    "overall_risk_level": "Low",
+    "total_transactions": 3,
+    "flagged_transactions": 0,
+    "distinct_channels_used": 1,
+    "total_amount": 9844.82,
+    "avg_amount": 3281.61,
+    "top_reasons": [
+      "Transaction made from a device not seen before for this customer"
+    ],
+    "recommended_action": "Allow"
+  },
+  {
+    "customer_id": "cust_0016",
+    "overall_risk_score": 15,
+    "overall_risk_level": "Low",
+    "total_transactions": 7,
+    "flagged_transactions": 0,
+    "distinct_channels_used": 1,
+    "total_amount": 6817.22,
+    "avg_amount": 973.89,
+    "top_reasons": [
+      "Transaction made from a device not seen before for this customer"
+    ],
+    "recommended_action": "Allow"
+  },
+  {
+    "customer_id": "cust_0017",
+    "overall_risk_score": 15,
+    "overall_risk_level": "Low",
+    "total_transactions": 4,
+    "flagged_transactions": 0,
+    "distinct_channels_used": 1,
+    "total_amount": 15816.84,
+    "avg_amount": 3954.21,
+    "top_reasons": [
+      "Transaction made from a device not seen before for this customer"
+    ],
+    "recommended_action": "Allow"
+  },
+  {
+    "customer_id": "cust_0018",
+    "overall_risk_score": 15,
+    "overall_risk_level": "Low",
+    "total_transactions": 6,
+    "flagged_transactions": 0,
+    "distinct_channels_used": 1,
+    "total_amount": 7731.57,
+    "avg_amount": 1288.6,
+    "top_reasons": [
+      "Transaction made from a device not seen before for this customer"
+    ],
+    "recommended_action": "Allow"
+  },
+  {
+    "customer_id": "cust_0019",
+    "overall_risk_score": 15,
+    "overall_risk_level": "Low",
+    "total_transactions": 3,
+    "flagged_transactions": 0,
+    "distinct_channels_used": 1,
+    "total_amount": 8994.56,
+    "avg_amount": 2998.19,
+    "top_reasons": [
+      "Transaction made from a device not seen before for this customer"
+    ],
+    "recommended_action": "Allow"
+  },
+  {
+    "customer_id": "cust_0020",
+    "overall_risk_score": 15,
+    "overall_risk_level": "Low",
+    "total_transactions": 8,
+    "flagged_transactions": 0,
+    "distinct_channels_used": 1,
+    "total_amount": 3588.69,
+    "avg_amount": 448.59,
+    "top_reasons": [
+      "Transaction made from a device not seen before for this customer"
+    ],
+    "recommended_action": "Allow"
+  },
+  {
+    "customer_id": "cust_0021",
+    "overall_risk_score": 15,
+    "overall_risk_level": "Low",
+    "total_transactions": 7,
+    "flagged_transactions": 0,
+    "distinct_channels_used": 1,
+    "total_amount": 15645.63,
+    "avg_amount": 2235.09,
+    "top_reasons": [
+      "Transaction made from a device not seen before for this customer"
+    ],
+    "recommended_action": "Allow"
+  },
+  {
+    "customer_id": "cust_0022",
+    "overall_risk_score": 15,
+    "overall_risk_level": "Low",
+    "total_transactions": 3,
+    "flagged_transactions": 0,
+    "distinct_channels_used": 1,
+    "total_amount": 5240.99,
+    "avg_amount": 1747.0,
+    "top_reasons": [
+      "Transaction made from a device not seen before for this customer"
+    ],
+    "recommended_action": "Allow"
+  },
+  {
+    "customer_id": "cust_0023",
+    "overall_risk_score": 15,
+    "overall_risk_level": "Low",
+    "total_transactions": 6,
+    "flagged_transactions": 0,
+    "distinct_channels_used": 1,
+    "total_amount": 6524.93,
+    "avg_amount": 1087.49,
+    "top_reasons": [
+      "Transaction made from a device not seen before for this customer"
+    ],
+    "recommended_action": "Allow"
+  },
+  {
+    "customer_id": "cust_0024",
+    "overall_risk_score": 15,
+    "overall_risk_level": "Low",
+    "total_transactions": 6,
+    "flagged_transactions": 0,
+    "distinct_channels_used": 1,
+    "total_amount": 24710.05,
+    "avg_amount": 4118.34,
+    "top_reasons": [
+      "Transaction made from a device not seen before for this customer"
+    ],
+    "recommended_action": "Allow"
+  },
+  {
+    "customer_id": "cust_0025",
+    "overall_risk_score": 15,
+    "overall_risk_level": "Low",
+    "total_transactions": 4,
+    "flagged_transactions": 0,
+    "distinct_channels_used": 1,
+    "total_amount": 13155.44,
+    "avg_amount": 3288.86,
+    "top_reasons": [
+      "Transaction made from a device not seen before for this customer"
+    ],
+    "recommended_action": "Allow"
+  },
+  {
+    "customer_id": "cust_0026",
+    "overall_risk_score": 15,
+    "overall_risk_level": "Low",
+    "total_transactions": 7,
+    "flagged_transactions": 0,
+    "distinct_channels_used": 1,
+    "total_amount": 18636.3,
+    "avg_amount": 2662.33,
+    "top_reasons": [
+      "Transaction made from a device not seen before for this customer"
+    ],
+    "recommended_action": "Allow"
+  },
+  {
+    "customer_id": "cust_0027",
+    "overall_risk_score": 15,
+    "overall_risk_level": "Low",
+    "total_transactions": 7,
+    "flagged_transactions": 0,
+    "distinct_channels_used": 1,
+    "total_amount": 6333.27,
+    "avg_amount": 904.75,
+    "top_reasons": [
+      "Transaction made from a device not seen before for this customer"
+    ],
+    "recommended_action": "Allow"
+  },
+  {
+    "customer_id": "cust_0028",
+    "overall_risk_score": 15,
+    "overall_risk_level": "Low",
+    "total_transactions": 3,
+    "flagged_transactions": 0,
+    "distinct_channels_used": 1,
+    "total_amount": 15160.12,
+    "avg_amount": 5053.37,
+    "top_reasons": [
+      "Transaction made from a device not seen before for this customer"
+    ],
+    "recommended_action": "Allow"
+  },
+  {
+    "customer_id": "cust_0029",
+    "overall_risk_score": 15,
+    "overall_risk_level": "Low",
+    "total_transactions": 7,
+    "flagged_transactions": 0,
+    "distinct_channels_used": 1,
+    "total_amount": 23814.6,
+    "avg_amount": 3402.09,
+    "top_reasons": [
+      "Transaction made from a device not seen before for this customer"
+    ],
+    "recommended_action": "Allow"
+  },
+  {
+    "customer_id": "cust_0030",
+    "overall_risk_score": 15,
+    "overall_risk_level": "Low",
+    "total_transactions": 7,
+    "flagged_transactions": 0,
+    "distinct_channels_used": 1,
+    "total_amount": 25364.19,
+    "avg_amount": 3623.46,
+    "top_reasons": [
+      "Transaction made from a device not seen before for this customer"
+    ],
+    "recommended_action": "Allow"
+  },
+  {
+    "customer_id": "cust_0031",
+    "overall_risk_score": 15,
+    "overall_risk_level": "Low",
+    "total_transactions": 3,
+    "flagged_transactions": 0,
+    "distinct_channels_used": 1,
+    "total_amount": 14396.78,
+    "avg_amount": 4798.93,
+    "top_reasons": [
+      "Transaction made from a device not seen before for this customer"
+    ],
+    "recommended_action": "Allow"
+  },
+  {
+    "customer_id": "cust_0032",
+    "overall_risk_score": 15,
+    "overall_risk_level": "Low",
+    "total_transactions": 5,
+    "flagged_transactions": 0,
+    "distinct_channels_used": 1,
+    "total_amount": 8352.91,
+    "avg_amount": 1670.58,
+    "top_reasons": [
+      "Transaction made from a device not seen before for this customer"
+    ],
+    "recommended_action": "Allow"
+  },
+  {
+    "customer_id": "cust_0033",
+    "overall_risk_score": 15,
+    "overall_risk_level": "Low",
+    "total_transactions": 8,
+    "flagged_transactions": 0,
+    "distinct_channels_used": 1,
+    "total_amount": 15685.26,
+    "avg_amount": 1960.66,
+    "top_reasons": [
+      "Transaction made from a device not seen before for this customer"
+    ],
+    "recommended_action": "Allow"
+  },
+  {
+    "customer_id": "cust_0034",
+    "overall_risk_score": 15,
+    "overall_risk_level": "Low",
+    "total_transactions": 4,
+    "flagged_transactions": 0,
+    "distinct_channels_used": 1,
+    "total_amount": 5884.16,
+    "avg_amount": 1471.04,
+    "top_reasons": [
+      "Transaction made from a device not seen before for this customer"
+    ],
+    "recommended_action": "Allow"
+  },
+  {
+    "customer_id": "cust_0035",
+    "overall_risk_score": 15,
+    "overall_risk_level": "Low",
+    "total_transactions": 7,
+    "flagged_transactions": 0,
+    "distinct_channels_used": 1,
+    "total_amount": 18728.03,
+    "avg_amount": 2675.43,
+    "top_reasons": [
+      "Transaction made from a device not seen before for this customer"
+    ],
+    "recommended_action": "Allow"
+  },
+  {
+    "customer_id": "cust_0036",
+    "overall_risk_score": 15,
+    "overall_risk_level": "Low",
+    "total_transactions": 4,
+    "flagged_transactions": 0,
+    "distinct_channels_used": 1,
+    "total_amount": 9924.84,
+    "avg_amount": 2481.21,
+    "top_reasons": [
+      "Transaction made from a device not seen before for this customer"
+    ],
+    "recommended_action": "Allow"
+  },
+  {
+    "customer_id": "cust_0037",
+    "overall_risk_score": 15,
+    "overall_risk_level": "Low",
+    "total_transactions": 4,
+    "flagged_transactions": 0,
+    "distinct_channels_used": 1,
+    "total_amount": 11256.73,
+    "avg_amount": 2814.18,
+    "top_reasons": [
+      "Transaction made from a device not seen before for this customer"
+    ],
+    "recommended_action": "Allow"
+  },
+  {
+    "customer_id": "cust_0038",
+    "overall_risk_score": 15,
+    "overall_risk_level": "Low",
+    "total_transactions": 7,
+    "flagged_transactions": 0,
+    "distinct_channels_used": 1,
+    "total_amount": 17112.45,
+    "avg_amount": 2444.64,
+    "top_reasons": [
+      "Transaction made from a device not seen before for this customer"
+    ],
+    "recommended_action": "Allow"
+  },
+  {
+    "customer_id": "cust_0039",
+    "overall_risk_score": 15,
+    "overall_risk_level": "Low",
+    "total_transactions": 5,
+    "flagged_transactions": 0,
+    "distinct_channels_used": 1,
+    "total_amount": 3841.69,
+    "avg_amount": 768.34,
+    "top_reasons": [
+      "Transaction made from a device not seen before for this customer"
+    ],
+    "recommended_action": "Allow"
+  },
+  {
+    "customer_id": "cust_0040",
+    "overall_risk_score": 15,
+    "overall_risk_level": "Low",
+    "total_transactions": 8,
+    "flagged_transactions": 0,
+    "distinct_channels_used": 1,
+    "total_amount": 39871.19,
+    "avg_amount": 4983.9,
+    "top_reasons": [
+      "Transaction made from a device not seen before for this customer"
+    ],
+    "recommended_action": "Allow"
+  },
+  {
+    "customer_id": "cust_0041",
+    "overall_risk_score": 15,
+    "overall_risk_level": "Low",
+    "total_transactions": 7,
+    "flagged_transactions": 0,
+    "distinct_channels_used": 1,
+    "total_amount": 24237.47,
+    "avg_amount": 3462.5,
+    "top_reasons": [
+      "Transaction made from a device not seen before for this customer"
+    ],
+    "recommended_action": "Allow"
+  },
+  {
+    "customer_id": "cust_0042",
+    "overall_risk_score": 15,
+    "overall_risk_level": "Low",
+    "total_transactions": 8,
+    "flagged_transactions": 0,
+    "distinct_channels_used": 1,
+    "total_amount": 23932.35,
+    "avg_amount": 2991.54,
+    "top_reasons": [
+      "Transaction made from a device not seen before for this customer"
+    ],
+    "recommended_action": "Allow"
+  },
+  {
+    "customer_id": "cust_0043",
+    "overall_risk_score": 15,
+    "overall_risk_level": "Low",
+    "total_transactions": 5,
+    "flagged_transactions": 0,
+    "distinct_channels_used": 1,
+    "total_amount": 13645.28,
+    "avg_amount": 2729.06,
+    "top_reasons": [
+      "Transaction made from a device not seen before for this customer"
+    ],
+    "recommended_action": "Allow"
+  },
+  {
+    "customer_id": "cust_0044",
+    "overall_risk_score": 15,
+    "overall_risk_level": "Low",
+    "total_transactions": 4,
+    "flagged_transactions": 0,
+    "distinct_channels_used": 1,
+    "total_amount": 21556.28,
+    "avg_amount": 5389.07,
+    "top_reasons": [
+      "Transaction made from a device not seen before for this customer"
+    ],
+    "recommended_action": "Allow"
+  },
+  {
+    "customer_id": "cust_0045",
+    "overall_risk_score": 15,
+    "overall_risk_level": "Low",
+    "total_transactions": 5,
+    "flagged_transactions": 0,
+    "distinct_channels_used": 1,
+    "total_amount": 17321.98,
+    "avg_amount": 3464.4,
+    "top_reasons": [
+      "Transaction made from a device not seen before for this customer"
+    ],
+    "recommended_action": "Allow"
+  },
+  {
+    "customer_id": "cust_0046",
+    "overall_risk_score": 15,
+    "overall_risk_level": "Low",
+    "total_transactions": 8,
+    "flagged_transactions": 0,
+    "distinct_channels_used": 1,
+    "total_amount": 20585.08,
+    "avg_amount": 2573.14,
+    "top_reasons": [
+      "Transaction made from a device not seen before for this customer"
+    ],
+    "recommended_action": "Allow"
+  },
+  {
+    "customer_id": "cust_0047",
+    "overall_risk_score": 15,
+    "overall_risk_level": "Low",
+    "total_transactions": 5,
+    "flagged_transactions": 0,
+    "distinct_channels_used": 1,
+    "total_amount": 3887.18,
+    "avg_amount": 777.44,
+    "top_reasons": [
+      "Transaction made from a device not seen before for this customer"
+    ],
+    "recommended_action": "Allow"
+  },
+  {
+    "customer_id": "cust_0048",
+    "overall_risk_score": 15,
+    "overall_risk_level": "Low",
+    "total_transactions": 6,
+    "flagged_transactions": 0,
+    "distinct_channels_used": 1,
+    "total_amount": 3071.15,
+    "avg_amount": 511.86,
+    "top_reasons": [
+      "Transaction made from a device not seen before for this customer"
+    ],
+    "recommended_action": "Allow"
+  },
+  {
+    "customer_id": "cust_0049",
+    "overall_risk_score": 15,
+    "overall_risk_level": "Low",
+    "total_transactions": 8,
+    "flagged_transactions": 0,
+    "distinct_channels_used": 1,
+    "total_amount": 16034.51,
+    "avg_amount": 2004.31,
+    "top_reasons": [
+      "Transaction made from a device not seen before for this customer"
+    ],
+    "recommended_action": "Allow"
+  },
+  {
+    "customer_id": "cust_0050",
+    "overall_risk_score": 15,
+    "overall_risk_level": "Low",
+    "total_transactions": 8,
+    "flagged_transactions": 0,
+    "distinct_channels_used": 1,
+    "total_amount": 40339.48,
+    "avg_amount": 5042.43,
+    "top_reasons": [
+      "Transaction made from a device not seen before for this customer"
+    ],
+    "recommended_action": "Allow"
+  },
+  {
+    "customer_id": "cust_0051",
+    "overall_risk_score": 15,
+    "overall_risk_level": "Low",
+    "total_transactions": 3,
+    "flagged_transactions": 0,
+    "distinct_channels_used": 1,
+    "total_amount": 2376.19,
+    "avg_amount": 792.06,
+    "top_reasons": [
+      "Transaction made from a device not seen before for this customer"
+    ],
+    "recommended_action": "Allow"
+  },
+  {
+    "customer_id": "cust_0052",
+    "overall_risk_score": 15,
+    "overall_risk_level": "Low",
+    "total_transactions": 6,
+    "flagged_transactions": 0,
+    "distinct_channels_used": 1,
+    "total_amount": 26291.44,
+    "avg_amount": 4381.91,
+    "top_reasons": [
+      "Transaction made from a device not seen before for this customer"
+    ],
+    "recommended_action": "Allow"
+  },
+  {
+    "customer_id": "cust_0053",
+    "overall_risk_score": 15,
+    "overall_risk_level": "Low",
+    "total_transactions": 6,
+    "flagged_transactions": 0,
+    "distinct_channels_used": 1,
+    "total_amount": 20008.03,
+    "avg_amount": 3334.67,
+    "top_reasons": [
+      "Transaction made from a device not seen before for this customer"
+    ],
+    "recommended_action": "Allow"
+  },
+  {
+    "customer_id": "cust_0054",
+    "overall_risk_score": 15,
+    "overall_risk_level": "Low",
+    "total_transactions": 4,
+    "flagged_transactions": 0,
+    "distinct_channels_used": 1,
+    "total_amount": 15727.67,
+    "avg_amount": 3931.92,
+    "top_reasons": [
+      "Transaction made from a device not seen before for this customer"
+    ],
+    "recommended_action": "Allow"
+  },
+  {
+    "customer_id": "cust_0055",
+    "overall_risk_score": 15,
+    "overall_risk_level": "Low",
+    "total_transactions": 3,
+    "flagged_transactions": 0,
+    "distinct_channels_used": 1,
+    "total_amount": 7158.98,
+    "avg_amount": 2386.33,
+    "top_reasons": [
+      "Transaction made from a device not seen before for this customer"
+    ],
+    "recommended_action": "Allow"
+  },
+  {
+    "customer_id": "cust_0056",
+    "overall_risk_score": 15,
+    "overall_risk_level": "Low",
+    "total_transactions": 8,
+    "flagged_transactions": 0,
+    "distinct_channels_used": 1,
+    "total_amount": 6483.66,
+    "avg_amount": 810.46,
+    "top_reasons": [
+      "Transaction made from a device not seen before for this customer"
+    ],
+    "recommended_action": "Allow"
+  },
+  {
+    "customer_id": "cust_0057",
+    "overall_risk_score": 15,
+    "overall_risk_level": "Low",
+    "total_transactions": 7,
+    "flagged_transactions": 0,
+    "distinct_channels_used": 1,
+    "total_amount": 17124.22,
+    "avg_amount": 2446.32,
+    "top_reasons": [
+      "Transaction made from a device not seen before for this customer"
+    ],
+    "recommended_action": "Allow"
+  },
+  {
+    "customer_id": "cust_0058",
+    "overall_risk_score": 15,
+    "overall_risk_level": "Low",
+    "total_transactions": 5,
+    "flagged_transactions": 0,
+    "distinct_channels_used": 1,
+    "total_amount": 22947.98,
+    "avg_amount": 4589.6,
+    "top_reasons": [
+      "Transaction made from a device not seen before for this customer"
+    ],
+    "recommended_action": "Allow"
+  },
+  {
+    "customer_id": "cust_0059",
+    "overall_risk_score": 15,
+    "overall_risk_level": "Low",
+    "total_transactions": 4,
+    "flagged_transactions": 0,
+    "distinct_channels_used": 1,
+    "total_amount": 16998.35,
+    "avg_amount": 4249.59,
+    "top_reasons": [
+      "Transaction made from a device not seen before for this customer"
+    ],
+    "recommended_action": "Allow"
+  },
+  {
+    "customer_id": "cust_0060",
+    "overall_risk_score": 15,
+    "overall_risk_level": "Low",
+    "total_transactions": 4,
+    "flagged_transactions": 0,
+    "distinct_channels_used": 1,
+    "total_amount": 3519.25,
+    "avg_amount": 879.81,
+    "top_reasons": [
+      "Transaction made from a device not seen before for this customer"
+    ],
+    "recommended_action": "Allow"
+  },
+  {
+    "customer_id": "cust_0061",
+    "overall_risk_score": 15,
+    "overall_risk_level": "Low",
+    "total_transactions": 4,
+    "flagged_transactions": 0,
+    "distinct_channels_used": 1,
+    "total_amount": 14641.99,
+    "avg_amount": 3660.5,
+    "top_reasons": [
+      "Transaction made from a device not seen before for this customer"
+    ],
+    "recommended_action": "Allow"
+  },
+  {
+    "customer_id": "cust_0062",
+    "overall_risk_score": 15,
+    "overall_risk_level": "Low",
+    "total_transactions": 7,
+    "flagged_transactions": 0,
+    "distinct_channels_used": 1,
+    "total_amount": 21426.54,
+    "avg_amount": 3060.93,
+    "top_reasons": [
+      "Transaction made from a device not seen before for this customer"
+    ],
+    "recommended_action": "Allow"
+  },
+  {
+    "customer_id": "cust_0063",
+    "overall_risk_score": 15,
+    "overall_risk_level": "Low",
+    "total_transactions": 6,
+    "flagged_transactions": 0,
+    "distinct_channels_used": 1,
+    "total_amount": 15891.13,
+    "avg_amount": 2648.52,
+    "top_reasons": [
+      "Transaction made from a device not seen before for this customer"
+    ],
+    "recommended_action": "Allow"
+  },
+  {
+    "customer_id": "cust_0064",
+    "overall_risk_score": 15,
+    "overall_risk_level": "Low",
+    "total_transactions": 7,
+    "flagged_transactions": 0,
+    "distinct_channels_used": 1,
+    "total_amount": 16396.23,
+    "avg_amount": 2342.32,
+    "top_reasons": [
+      "Transaction made from a device not seen before for this customer"
+    ],
+    "recommended_action": "Allow"
+  },
+  {
+    "customer_id": "cust_0065",
+    "overall_risk_score": 15,
+    "overall_risk_level": "Low",
+    "total_transactions": 8,
+    "flagged_transactions": 0,
+    "distinct_channels_used": 1,
+    "total_amount": 21656.35,
+    "avg_amount": 2707.04,
+    "top_reasons": [
+      "Transaction made from a device not seen before for this customer"
+    ],
+    "recommended_action": "Allow"
+  },
+  {
+    "customer_id": "cust_0066",
+    "overall_risk_score": 15,
+    "overall_risk_level": "Low",
+    "total_transactions": 7,
+    "flagged_transactions": 0,
+    "distinct_channels_used": 1,
+    "total_amount": 18055.61,
+    "avg_amount": 2579.37,
+    "top_reasons": [
+      "Transaction made from a device not seen before for this customer"
+    ],
+    "recommended_action": "Allow"
+  },
+  {
+    "customer_id": "cust_0067",
+    "overall_risk_score": 15,
+    "overall_risk_level": "Low",
+    "total_transactions": 5,
+    "flagged_transactions": 0,
+    "distinct_channels_used": 1,
+    "total_amount": 10329.54,
+    "avg_amount": 2065.91,
+    "top_reasons": [
+      "Transaction made from a device not seen before for this customer"
+    ],
+    "recommended_action": "Allow"
+  },
+  {
+    "customer_id": "cust_0068",
+    "overall_risk_score": 15,
+    "overall_risk_level": "Low",
+    "total_transactions": 8,
+    "flagged_transactions": 0,
+    "distinct_channels_used": 1,
+    "total_amount": 38085.07,
+    "avg_amount": 4760.63,
+    "top_reasons": [
+      "Transaction made from a device not seen before for this customer"
+    ],
+    "recommended_action": "Allow"
+  },
+  {
+    "customer_id": "cust_0069",
+    "overall_risk_score": 15,
+    "overall_risk_level": "Low",
+    "total_transactions": 4,
+    "flagged_transactions": 0,
+    "distinct_channels_used": 1,
+    "total_amount": 19774.35,
+    "avg_amount": 4943.59,
+    "top_reasons": [
+      "Transaction made from a device not seen before for this customer"
+    ],
+    "recommended_action": "Allow"
+  },
+  {
+    "customer_id": "cust_0070",
+    "overall_risk_score": 15,
+    "overall_risk_level": "Low",
+    "total_transactions": 4,
+    "flagged_transactions": 0,
+    "distinct_channels_used": 1,
+    "total_amount": 16614.7,
+    "avg_amount": 4153.67,
+    "top_reasons": [
+      "Transaction made from a device not seen before for this customer"
+    ],
+    "recommended_action": "Allow"
+  },
+  {
+    "customer_id": "cust_0071",
+    "overall_risk_score": 15,
+    "overall_risk_level": "Low",
+    "total_transactions": 6,
+    "flagged_transactions": 0,
+    "distinct_channels_used": 1,
+    "total_amount": 12875.89,
+    "avg_amount": 2145.98,
+    "top_reasons": [
+      "Transaction made from a device not seen before for this customer"
+    ],
+    "recommended_action": "Allow"
+  },
+  {
+    "customer_id": "cust_0072",
+    "overall_risk_score": 15,
+    "overall_risk_level": "Low",
+    "total_transactions": 3,
+    "flagged_transactions": 0,
+    "distinct_channels_used": 1,
+    "total_amount": 5770.74,
+    "avg_amount": 1923.58,
+    "top_reasons": [
+      "Transaction made from a device not seen before for this customer"
+    ],
+    "recommended_action": "Allow"
+  },
+  {
+    "customer_id": "cust_0073",
+    "overall_risk_score": 15,
+    "overall_risk_level": "Low",
+    "total_transactions": 3,
+    "flagged_transactions": 0,
+    "distinct_channels_used": 1,
+    "total_amount": 4752.84,
+    "avg_amount": 1584.28,
+    "top_reasons": [
+      "Transaction made from a device not seen before for this customer"
+    ],
+    "recommended_action": "Allow"
+  },
+  {
+    "customer_id": "cust_0074",
+    "overall_risk_score": 15,
+    "overall_risk_level": "Low",
+    "total_transactions": 8,
+    "flagged_transactions": 0,
+    "distinct_channels_used": 1,
+    "total_amount": 19703.6,
+    "avg_amount": 2462.95,
+    "top_reasons": [
+      "Transaction made from a device not seen before for this customer"
+    ],
+    "recommended_action": "Allow"
+  },
+  {
+    "customer_id": "cust_0075",
+    "overall_risk_score": 15,
+    "overall_risk_level": "Low",
+    "total_transactions": 5,
+    "flagged_transactions": 0,
+    "distinct_channels_used": 1,
+    "total_amount": 15581.32,
+    "avg_amount": 3116.26,
+    "top_reasons": [
+      "Transaction made from a device not seen before for this customer"
+    ],
+    "recommended_action": "Allow"
+  },
+  {
+    "customer_id": "cust_0076",
+    "overall_risk_score": 15,
+    "overall_risk_level": "Low",
+    "total_transactions": 4,
+    "flagged_transactions": 0,
+    "distinct_channels_used": 1,
+    "total_amount": 15929.38,
+    "avg_amount": 3982.34,
+    "top_reasons": [
+      "Transaction made from a device not seen before for this customer"
+    ],
+    "recommended_action": "Allow"
+  },
+  {
+    "customer_id": "cust_0077",
+    "overall_risk_score": 15,
+    "overall_risk_level": "Low",
+    "total_transactions": 6,
+    "flagged_transactions": 0,
+    "distinct_channels_used": 1,
+    "total_amount": 10677.94,
+    "avg_amount": 1779.66,
+    "top_reasons": [
+      "Transaction made from a device not seen before for this customer"
+    ],
+    "recommended_action": "Allow"
+  },
+  {
+    "customer_id": "cust_0078",
+    "overall_risk_score": 15,
+    "overall_risk_level": "Low",
+    "total_transactions": 8,
+    "flagged_transactions": 0,
+    "distinct_channels_used": 1,
+    "total_amount": 35216.56,
+    "avg_amount": 4402.07,
+    "top_reasons": [
+      "Transaction made from a device not seen before for this customer"
+    ],
+    "recommended_action": "Allow"
+  },
+  {
+    "customer_id": "cust_0079",
+    "overall_risk_score": 15,
+    "overall_risk_level": "Low",
+    "total_transactions": 5,
+    "flagged_transactions": 0,
+    "distinct_channels_used": 1,
+    "total_amount": 8452.7,
+    "avg_amount": 1690.54,
+    "top_reasons": [
+      "Transaction made from a device not seen before for this customer"
+    ],
+    "recommended_action": "Allow"
+  },
+  {
+    "customer_id": "cust_0080",
+    "overall_risk_score": 15,
+    "overall_risk_level": "Low",
+    "total_transactions": 5,
+    "flagged_transactions": 0,
+    "distinct_channels_used": 1,
+    "total_amount": 23803.48,
+    "avg_amount": 4760.7,
+    "top_reasons": [
+      "Transaction made from a device not seen before for this customer"
+    ],
+    "recommended_action": "Allow"
+  },
+  {
+    "customer_id": "cust_0081",
+    "overall_risk_score": 15,
+    "overall_risk_level": "Low",
+    "total_transactions": 3,
+    "flagged_transactions": 0,
+    "distinct_channels_used": 1,
+    "total_amount": 12880.19,
+    "avg_amount": 4293.4,
+    "top_reasons": [
+      "Transaction made from a device not seen before for this customer"
+    ],
+    "recommended_action": "Allow"
+  },
+  {
+    "customer_id": "cust_0082",
+    "overall_risk_score": 15,
+    "overall_risk_level": "Low",
+    "total_transactions": 6,
+    "flagged_transactions": 0,
+    "distinct_channels_used": 1,
+    "total_amount": 28670.02,
+    "avg_amount": 4778.34,
+    "top_reasons": [
+      "Transaction made from a device not seen before for this customer"
+    ],
+    "recommended_action": "Allow"
+  },
+  {
+    "customer_id": "cust_0083",
+    "overall_risk_score": 15,
+    "overall_risk_level": "Low",
+    "total_transactions": 4,
+    "flagged_transactions": 0,
+    "distinct_channels_used": 1,
+    "total_amount": 2548.48,
+    "avg_amount": 637.12,
+    "top_reasons": [
+      "Transaction made from a device not seen before for this customer"
+    ],
+    "recommended_action": "Allow"
+  },
+  {
+    "customer_id": "cust_0084",
+    "overall_risk_score": 15,
+    "overall_risk_level": "Low",
+    "total_transactions": 7,
+    "flagged_transactions": 0,
+    "distinct_channels_used": 1,
+    "total_amount": 6957.61,
+    "avg_amount": 993.94,
+    "top_reasons": [
+      "Transaction made from a device not seen before for this customer"
+    ],
+    "recommended_action": "Allow"
+  },
+  {
+    "customer_id": "cust_0085",
+    "overall_risk_score": 15,
+    "overall_risk_level": "Low",
+    "total_transactions": 3,
+    "flagged_transactions": 0,
+    "distinct_channels_used": 1,
+    "total_amount": 4480.55,
+    "avg_amount": 1493.52,
+    "top_reasons": [
+      "Transaction made from a device not seen before for this customer"
+    ],
+    "recommended_action": "Allow"
+  },
+  {
+    "customer_id": "cust_0086",
+    "overall_risk_score": 15,
+    "overall_risk_level": "Low",
+    "total_transactions": 4,
+    "flagged_transactions": 0,
+    "distinct_channels_used": 1,
+    "total_amount": 16800.23,
+    "avg_amount": 4200.06,
+    "top_reasons": [
+      "Transaction made from a device not seen before for this customer"
+    ],
+    "recommended_action": "Allow"
+  },
+  {
+    "customer_id": "cust_0087",
+    "overall_risk_score": 15,
+    "overall_risk_level": "Low",
+    "total_transactions": 7,
+    "flagged_transactions": 0,
+    "distinct_channels_used": 1,
+    "total_amount": 23707.88,
+    "avg_amount": 3386.84,
+    "top_reasons": [
+      "Transaction made from a device not seen before for this customer"
+    ],
+    "recommended_action": "Allow"
+  },
+  {
+    "customer_id": "cust_0088",
+    "overall_risk_score": 15,
+    "overall_risk_level": "Low",
+    "total_transactions": 6,
+    "flagged_transactions": 0,
+    "distinct_channels_used": 1,
+    "total_amount": 10595.9,
+    "avg_amount": 1765.98,
+    "top_reasons": [
+      "Transaction made from a device not seen before for this customer"
+    ],
+    "recommended_action": "Allow"
+  },
+  {
+    "customer_id": "cust_0089",
+    "overall_risk_score": 15,
+    "overall_risk_level": "Low",
+    "total_transactions": 4,
+    "flagged_transactions": 0,
+    "distinct_channels_used": 1,
+    "total_amount": 12575.28,
+    "avg_amount": 3143.82,
+    "top_reasons": [
+      "Transaction made from a device not seen before for this customer"
+    ],
+    "recommended_action": "Allow"
+  },
+  {
+    "customer_id": "cust_0090",
+    "overall_risk_score": 15,
+    "overall_risk_level": "Low",
+    "total_transactions": 6,
+    "flagged_transactions": 0,
+    "distinct_channels_used": 1,
+    "total_amount": 4640.77,
+    "avg_amount": 773.46,
+    "top_reasons": [
+      "Transaction made from a device not seen before for this customer"
+    ],
+    "recommended_action": "Allow"
+  },
+  {
+    "customer_id": "cust_0091",
+    "overall_risk_score": 15,
+    "overall_risk_level": "Low",
+    "total_transactions": 7,
+    "flagged_transactions": 0,
+    "distinct_channels_used": 1,
+    "total_amount": 18307.29,
+    "avg_amount": 2615.33,
+    "top_reasons": [
+      "Transaction made from a device not seen before for this customer"
+    ],
+    "recommended_action": "Allow"
+  },
+  {
+    "customer_id": "cust_0092",
+    "overall_risk_score": 15,
+    "overall_risk_level": "Low",
+    "total_transactions": 5,
+    "flagged_transactions": 0,
+    "distinct_channels_used": 1,
+    "total_amount": 15278.46,
+    "avg_amount": 3055.69,
+    "top_reasons": [
+      "Transaction made from a device not seen before for this customer"
+    ],
+    "recommended_action": "Allow"
+  },
+  {
+    "customer_id": "cust_0093",
+    "overall_risk_score": 15,
+    "overall_risk_level": "Low",
+    "total_transactions": 7,
+    "flagged_transactions": 0,
+    "distinct_channels_used": 1,
+    "total_amount": 8213.06,
+    "avg_amount": 1173.29,
+    "top_reasons": [
+      "Transaction made from a device not seen before for this customer"
+    ],
+    "recommended_action": "Allow"
+  },
+  {
+    "customer_id": "cust_0094",
+    "overall_risk_score": 15,
+    "overall_risk_level": "Low",
+    "total_transactions": 5,
+    "flagged_transactions": 0,
+    "distinct_channels_used": 1,
+    "total_amount": 11592.82,
+    "avg_amount": 2318.56,
+    "top_reasons": [
+      "Transaction made from a device not seen before for this customer"
+    ],
+    "recommended_action": "Allow"
+  },
+  {
+    "customer_id": "cust_0095",
+    "overall_risk_score": 15,
+    "overall_risk_level": "Low",
+    "total_transactions": 4,
+    "flagged_transactions": 0,
+    "distinct_channels_used": 1,
+    "total_amount": 8766.69,
+    "avg_amount": 2191.67,
+    "top_reasons": [
+      "Transaction made from a device not seen before for this customer"
+    ],
+    "recommended_action": "Allow"
+  },
+  {
+    "customer_id": "cust_0096",
+    "overall_risk_score": 15,
+    "overall_risk_level": "Low",
+    "total_transactions": 3,
+    "flagged_transactions": 0,
+    "distinct_channels_used": 1,
+    "total_amount": 13614.66,
+    "avg_amount": 4538.22,
+    "top_reasons": [
+      "Transaction made from a device not seen before for this customer"
+    ],
+    "recommended_action": "Allow"
+  },
+  {
+    "customer_id": "cust_0097",
+    "overall_risk_score": 15,
+    "overall_risk_level": "Low",
+    "total_transactions": 8,
+    "flagged_transactions": 0,
+    "distinct_channels_used": 1,
+    "total_amount": 9172.03,
+    "avg_amount": 1146.5,
+    "top_reasons": [
+      "Transaction made from a device not seen before for this customer"
+    ],
+    "recommended_action": "Allow"
+  },
+  {
+    "customer_id": "cust_0098",
+    "overall_risk_score": 15,
+    "overall_risk_level": "Low",
+    "total_transactions": 3,
+    "flagged_transactions": 0,
+    "distinct_channels_used": 1,
+    "total_amount": 9530.95,
+    "avg_amount": 3176.98,
+    "top_reasons": [
+      "Transaction made from a device not seen before for this customer"
+    ],
+    "recommended_action": "Allow"
+  },
+  {
+    "customer_id": "cust_0099",
+    "overall_risk_score": 15,
+    "overall_risk_level": "Low",
+    "total_transactions": 5,
+    "flagged_transactions": 0,
+    "distinct_channels_used": 1,
+    "total_amount": 2818.84,
+    "avg_amount": 563.77,
+    "top_reasons": [
+      "Transaction made from a device not seen before for this customer"
+    ],
+    "recommended_action": "Allow"
+  },
+  {
+    "customer_id": "cust_0100",
+    "overall_risk_score": 15,
+    "overall_risk_level": "Low",
+    "total_transactions": 6,
+    "flagged_transactions": 0,
+    "distinct_channels_used": 1,
+    "total_amount": 23387.41,
+    "avg_amount": 3897.9,
+    "top_reasons": [
+      "Transaction made from a device not seen before for this customer"
+    ],
+    "recommended_action": "Allow"
+  },
+  {
+    "customer_id": "cust_0101",
+    "overall_risk_score": 15,
+    "overall_risk_level": "Low",
+    "total_transactions": 4,
+    "flagged_transactions": 0,
+    "distinct_channels_used": 1,
+    "total_amount": 14696.88,
+    "avg_amount": 3674.22,
+    "top_reasons": [
+      "Transaction made from a device not seen before for this customer"
+    ],
+    "recommended_action": "Allow"
+  },
+  {
+    "customer_id": "cust_0102",
+    "overall_risk_score": 15,
+    "overall_risk_level": "Low",
+    "total_transactions": 5,
+    "flagged_transactions": 0,
+    "distinct_channels_used": 1,
+    "total_amount": 15846.23,
+    "avg_amount": 3169.25,
+    "top_reasons": [
+      "Transaction made from a device not seen before for this customer"
+    ],
+    "recommended_action": "Allow"
+  },
+  {
+    "customer_id": "cust_0103",
+    "overall_risk_score": 15,
+    "overall_risk_level": "Low",
+    "total_transactions": 3,
+    "flagged_transactions": 0,
+    "distinct_channels_used": 1,
+    "total_amount": 7340.07,
+    "avg_amount": 2446.69,
+    "top_reasons": [
+      "Transaction made from a device not seen before for this customer"
+    ],
+    "recommended_action": "Allow"
+  },
+  {
+    "customer_id": "cust_0104",
+    "overall_risk_score": 15,
+    "overall_risk_level": "Low",
+    "total_transactions": 5,
+    "flagged_transactions": 0,
+    "distinct_channels_used": 1,
+    "total_amount": 5111.1,
+    "avg_amount": 1022.22,
+    "top_reasons": [
+      "Transaction made from a device not seen before for this customer"
+    ],
+    "recommended_action": "Allow"
+  },
+  {
+    "customer_id": "cust_0105",
+    "overall_risk_score": 15,
+    "overall_risk_level": "Low",
+    "total_transactions": 7,
+    "flagged_transactions": 0,
+    "distinct_channels_used": 1,
+    "total_amount": 4985.46,
+    "avg_amount": 712.21,
+    "top_reasons": [
+      "Transaction made from a device not seen before for this customer"
+    ],
+    "recommended_action": "Allow"
+  },
+  {
+    "customer_id": "cust_0106",
+    "overall_risk_score": 15,
+    "overall_risk_level": "Low",
+    "total_transactions": 8,
+    "flagged_transactions": 0,
+    "distinct_channels_used": 1,
+    "total_amount": 28794.41,
+    "avg_amount": 3599.3,
+    "top_reasons": [
+      "Transaction made from a device not seen before for this customer"
+    ],
+    "recommended_action": "Allow"
+  },
+  {
+    "customer_id": "cust_0107",
+    "overall_risk_score": 15,
+    "overall_risk_level": "Low",
+    "total_transactions": 4,
+    "flagged_transactions": 0,
+    "distinct_channels_used": 1,
+    "total_amount": 2635.33,
+    "avg_amount": 658.83,
+    "top_reasons": [
+      "Transaction made from a device not seen before for this customer"
+    ],
+    "recommended_action": "Allow"
+  },
+  {
+    "customer_id": "cust_0108",
+    "overall_risk_score": 15,
+    "overall_risk_level": "Low",
+    "total_transactions": 5,
+    "flagged_transactions": 0,
+    "distinct_channels_used": 1,
+    "total_amount": 19570.98,
+    "avg_amount": 3914.2,
+    "top_reasons": [
+      "Transaction made from a device not seen before for this customer"
+    ],
+    "recommended_action": "Allow"
+  },
+  {
+    "customer_id": "cust_0109",
+    "overall_risk_score": 15,
+    "overall_risk_level": "Low",
+    "total_transactions": 7,
+    "flagged_transactions": 0,
+    "distinct_channels_used": 1,
+    "total_amount": 4490.35,
+    "avg_amount": 641.48,
+    "top_reasons": [
+      "Transaction made from a device not seen before for this customer"
+    ],
+    "recommended_action": "Allow"
+  },
+  {
+    "customer_id": "cust_0110",
+    "overall_risk_score": 15,
+    "overall_risk_level": "Low",
+    "total_transactions": 4,
+    "flagged_transactions": 0,
+    "distinct_channels_used": 1,
+    "total_amount": 5247.99,
+    "avg_amount": 1312.0,
+    "top_reasons": [
+      "Transaction made from a device not seen before for this customer"
+    ],
+    "recommended_action": "Allow"
+  },
+  {
+    "customer_id": "cust_0111",
+    "overall_risk_score": 15,
+    "overall_risk_level": "Low",
+    "total_transactions": 7,
+    "flagged_transactions": 0,
+    "distinct_channels_used": 1,
+    "total_amount": 19403.13,
+    "avg_amount": 2771.88,
+    "top_reasons": [
+      "Transaction made from a device not seen before for this customer"
+    ],
+    "recommended_action": "Allow"
+  },
+  {
+    "customer_id": "cust_0112",
+    "overall_risk_score": 15,
+    "overall_risk_level": "Low",
+    "total_transactions": 8,
+    "flagged_transactions": 0,
+    "distinct_channels_used": 1,
+    "total_amount": 31112.74,
+    "avg_amount": 3889.09,
+    "top_reasons": [
+      "Transaction made from a device not seen before for this customer"
+    ],
+    "recommended_action": "Allow"
+  },
+  {
+    "customer_id": "cust_0113",
+    "overall_risk_score": 15,
+    "overall_risk_level": "Low",
+    "total_transactions": 6,
+    "flagged_transactions": 0,
+    "distinct_channels_used": 1,
+    "total_amount": 22759.99,
+    "avg_amount": 3793.33,
+    "top_reasons": [
+      "Transaction made from a device not seen before for this customer"
+    ],
+    "recommended_action": "Allow"
+  },
+  {
+    "customer_id": "cust_0114",
+    "overall_risk_score": 15,
+    "overall_risk_level": "Low",
+    "total_transactions": 4,
+    "flagged_transactions": 0,
+    "distinct_channels_used": 1,
+    "total_amount": 5713.31,
+    "avg_amount": 1428.33,
+    "top_reasons": [
+      "Transaction made from a device not seen before for this customer"
+    ],
+    "recommended_action": "Allow"
+  },
+  {
+    "customer_id": "cust_0115",
+    "overall_risk_score": 15,
+    "overall_risk_level": "Low",
+    "total_transactions": 7,
+    "flagged_transactions": 0,
+    "distinct_channels_used": 1,
+    "total_amount": 4251.41,
+    "avg_amount": 607.34,
+    "top_reasons": [
+      "Transaction made from a device not seen before for this customer"
+    ],
+    "recommended_action": "Allow"
+  },
+  {
+    "customer_id": "cust_0116",
+    "overall_risk_score": 15,
+    "overall_risk_level": "Low",
+    "total_transactions": 8,
+    "flagged_transactions": 0,
+    "distinct_channels_used": 1,
+    "total_amount": 7438.03,
+    "avg_amount": 929.75,
+    "top_reasons": [
+      "Transaction made from a device not seen before for this customer"
+    ],
+    "recommended_action": "Allow"
+  },
+  {
+    "customer_id": "cust_0117",
+    "overall_risk_score": 15,
+    "overall_risk_level": "Low",
+    "total_transactions": 4,
+    "flagged_transactions": 0,
+    "distinct_channels_used": 1,
+    "total_amount": 2176.6,
+    "avg_amount": 544.15,
+    "top_reasons": [
+      "Transaction made from a device not seen before for this customer"
+    ],
+    "recommended_action": "Allow"
+  },
+  {
+    "customer_id": "cust_0118",
+    "overall_risk_score": 15,
+    "overall_risk_level": "Low",
+    "total_transactions": 8,
+    "flagged_transactions": 0,
+    "distinct_channels_used": 1,
+    "total_amount": 31710.98,
+    "avg_amount": 3963.87,
+    "top_reasons": [
+      "Transaction made from a device not seen before for this customer"
+    ],
+    "recommended_action": "Allow"
+  }
+]

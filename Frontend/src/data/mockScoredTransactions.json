@@ -1,0 +1,6344 @@
+[
+  {
+    "transaction_id": "920c1abd",
+    "customer_id": "cust_0015",
+    "risk_score": 15,
+    "risk_level": "Low",
+    "reasons": [
+      "Transaction made from a device not seen before for this customer"
+    ],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "9bd589f9",
+    "customer_id": "cust_0097",
+    "risk_score": 15,
+    "risk_level": "Low",
+    "reasons": [
+      "Transaction made from a device not seen before for this customer"
+    ],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "7d782501",
+    "customer_id": "cust_0100",
+    "risk_score": 15,
+    "risk_level": "Low",
+    "reasons": [
+      "Transaction made from a device not seen before for this customer"
+    ],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "ed6daa18",
+    "customer_id": "cust_0062",
+    "risk_score": 15,
+    "risk_level": "Low",
+    "reasons": [
+      "Transaction made from a device not seen before for this customer"
+    ],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "116418f7",
+    "customer_id": "cust_0014",
+    "risk_score": 15,
+    "risk_level": "Low",
+    "reasons": [
+      "Transaction made from a device not seen before for this customer"
+    ],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "d5c7a88b",
+    "customer_id": "cust_0089",
+    "risk_score": 15,
+    "risk_level": "Low",
+    "reasons": [
+      "Transaction made from a device not seen before for this customer"
+    ],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "484a87ed",
+    "customer_id": "cust_0034",
+    "risk_score": 15,
+    "risk_level": "Low",
+    "reasons": [
+      "Transaction made from a device not seen before for this customer"
+    ],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "d4e05fb1",
+    "customer_id": "cust_0054",
+    "risk_score": 15,
+    "risk_level": "Low",
+    "reasons": [
+      "Transaction made from a device not seen before for this customer"
+    ],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "4a62920d",
+    "customer_id": "cust_0044",
+    "risk_score": 15,
+    "risk_level": "Low",
+    "reasons": [
+      "Transaction made from a device not seen before for this customer"
+    ],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "08e2e0bd",
+    "customer_id": "cust_0114",
+    "risk_score": 15,
+    "risk_level": "Low",
+    "reasons": [
+      "Transaction made from a device not seen before for this customer"
+    ],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "4e1a049d",
+    "customer_id": "cust_0054",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "fc70e21b",
+    "customer_id": "cust_0068",
+    "risk_score": 15,
+    "risk_level": "Low",
+    "reasons": [
+      "Transaction made from a device not seen before for this customer"
+    ],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "0e860a0c",
+    "customer_id": "cust_0074",
+    "risk_score": 15,
+    "risk_level": "Low",
+    "reasons": [
+      "Transaction made from a device not seen before for this customer"
+    ],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "f96bb19f",
+    "customer_id": "cust_0063",
+    "risk_score": 15,
+    "risk_level": "Low",
+    "reasons": [
+      "Transaction made from a device not seen before for this customer"
+    ],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "d58e7974",
+    "customer_id": "cust_0104",
+    "risk_score": 15,
+    "risk_level": "Low",
+    "reasons": [
+      "Transaction made from a device not seen before for this customer"
+    ],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "3dae740a",
+    "customer_id": "cust_0080",
+    "risk_score": 15,
+    "risk_level": "Low",
+    "reasons": [
+      "Transaction made from a device not seen before for this customer"
+    ],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "67996621",
+    "customer_id": "cust_0000",
+    "risk_score": 15,
+    "risk_level": "Low",
+    "reasons": [
+      "Transaction made from a device not seen before for this customer"
+    ],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "ff455c79",
+    "customer_id": "cust_0092",
+    "risk_score": 15,
+    "risk_level": "Low",
+    "reasons": [
+      "Transaction made from a device not seen before for this customer"
+    ],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "ca82f7e3",
+    "customer_id": "cust_0059",
+    "risk_score": 15,
+    "risk_level": "Low",
+    "reasons": [
+      "Transaction made from a device not seen before for this customer"
+    ],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "50d7f340",
+    "customer_id": "cust_0026",
+    "risk_score": 15,
+    "risk_level": "Low",
+    "reasons": [
+      "Transaction made from a device not seen before for this customer"
+    ],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "cb85f887",
+    "customer_id": "cust_0118",
+    "risk_score": 15,
+    "risk_level": "Low",
+    "reasons": [
+      "Transaction made from a device not seen before for this customer"
+    ],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "e6a29ba6",
+    "customer_id": "cust_0086",
+    "risk_score": 15,
+    "risk_level": "Low",
+    "reasons": [
+      "Transaction made from a device not seen before for this customer"
+    ],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "1f627314",
+    "customer_id": "cust_0093",
+    "risk_score": 15,
+    "risk_level": "Low",
+    "reasons": [
+      "Transaction made from a device not seen before for this customer"
+    ],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "5a6fad5f",
+    "customer_id": "cust_0000",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "d8f98a94",
+    "customer_id": "cust_0113",
+    "risk_score": 15,
+    "risk_level": "Low",
+    "reasons": [
+      "Transaction made from a device not seen before for this customer"
+    ],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "512b3c66",
+    "customer_id": "cust_susp_007",
+    "risk_score": 45,
+    "risk_level": "Medium",
+    "reasons": [
+      "Customer used 3 different channels within a short time window",
+      "Transaction made from a device not seen before for this customer"
+    ],
+    "action": "Monitor"
+  },
+  {
+    "transaction_id": "5bfa8f32",
+    "customer_id": "cust_susp_007",
+    "risk_score": 30,
+    "risk_level": "Medium",
+    "reasons": [
+      "Customer used 3 different channels within a short time window"
+    ],
+    "action": "Monitor"
+  },
+  {
+    "transaction_id": "c224de93",
+    "customer_id": "cust_susp_007",
+    "risk_score": 30,
+    "risk_level": "Medium",
+    "reasons": [
+      "Customer used 3 different channels within a short time window"
+    ],
+    "action": "Monitor"
+  },
+  {
+    "transaction_id": "053857f9",
+    "customer_id": "cust_0069",
+    "risk_score": 15,
+    "risk_level": "Low",
+    "reasons": [
+      "Transaction made from a device not seen before for this customer"
+    ],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "78678f43",
+    "customer_id": "cust_0112",
+    "risk_score": 15,
+    "risk_level": "Low",
+    "reasons": [
+      "Transaction made from a device not seen before for this customer"
+    ],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "8e4ce21c",
+    "customer_id": "cust_0077",
+    "risk_score": 15,
+    "risk_level": "Low",
+    "reasons": [
+      "Transaction made from a device not seen before for this customer"
+    ],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "4b645619",
+    "customer_id": "cust_0113",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "f217753b",
+    "customer_id": "cust_0027",
+    "risk_score": 15,
+    "risk_level": "Low",
+    "reasons": [
+      "Transaction made from a device not seen before for this customer"
+    ],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "06acc4e9",
+    "customer_id": "cust_0053",
+    "risk_score": 15,
+    "risk_level": "Low",
+    "reasons": [
+      "Transaction made from a device not seen before for this customer"
+    ],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "df845170",
+    "customer_id": "cust_0010",
+    "risk_score": 15,
+    "risk_level": "Low",
+    "reasons": [
+      "Transaction made from a device not seen before for this customer"
+    ],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "796168ac",
+    "customer_id": "cust_0092",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "aa68e208",
+    "customer_id": "cust_0071",
+    "risk_score": 15,
+    "risk_level": "Low",
+    "reasons": [
+      "Transaction made from a device not seen before for this customer"
+    ],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "20b71b78",
+    "customer_id": "cust_0054",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "5b6965d1",
+    "customer_id": "cust_0097",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "01d87da1",
+    "customer_id": "cust_susp_002",
+    "risk_score": 45,
+    "risk_level": "Medium",
+    "reasons": [
+      "Customer used 3 different channels within a short time window",
+      "Transaction made from a device not seen before for this customer"
+    ],
+    "action": "Monitor"
+  },
+  {
+    "transaction_id": "46230639",
+    "customer_id": "cust_susp_002",
+    "risk_score": 30,
+    "risk_level": "Medium",
+    "reasons": [
+      "Customer used 3 different channels within a short time window"
+    ],
+    "action": "Monitor"
+  },
+  {
+    "transaction_id": "2edba87a",
+    "customer_id": "cust_susp_002",
+    "risk_score": 30,
+    "risk_level": "Medium",
+    "reasons": [
+      "Customer used 3 different channels within a short time window"
+    ],
+    "action": "Monitor"
+  },
+  {
+    "transaction_id": "258975b2",
+    "customer_id": "cust_0003",
+    "risk_score": 15,
+    "risk_level": "Low",
+    "reasons": [
+      "Transaction made from a device not seen before for this customer"
+    ],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "dc45f542",
+    "customer_id": "cust_0107",
+    "risk_score": 15,
+    "risk_level": "Low",
+    "reasons": [
+      "Transaction made from a device not seen before for this customer"
+    ],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "492fd2a0",
+    "customer_id": "cust_0038",
+    "risk_score": 15,
+    "risk_level": "Low",
+    "reasons": [
+      "Transaction made from a device not seen before for this customer"
+    ],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "466dde38",
+    "customer_id": "cust_0036",
+    "risk_score": 15,
+    "risk_level": "Low",
+    "reasons": [
+      "Transaction made from a device not seen before for this customer"
+    ],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "8fcb516b",
+    "customer_id": "cust_0114",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "141ba850",
+    "customer_id": "cust_0108",
+    "risk_score": 15,
+    "risk_level": "Low",
+    "reasons": [
+      "Transaction made from a device not seen before for this customer"
+    ],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "a342e1ec",
+    "customer_id": "cust_0103",
+    "risk_score": 15,
+    "risk_level": "Low",
+    "reasons": [
+      "Transaction made from a device not seen before for this customer"
+    ],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "479a22cc",
+    "customer_id": "cust_0025",
+    "risk_score": 15,
+    "risk_level": "Low",
+    "reasons": [
+      "Transaction made from a device not seen before for this customer"
+    ],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "a7d028fe",
+    "customer_id": "cust_0105",
+    "risk_score": 15,
+    "risk_level": "Low",
+    "reasons": [
+      "Transaction made from a device not seen before for this customer"
+    ],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "73b302a1",
+    "customer_id": "cust_0025",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "2dd038f2",
+    "customer_id": "cust_0057",
+    "risk_score": 15,
+    "risk_level": "Low",
+    "reasons": [
+      "Transaction made from a device not seen before for this customer"
+    ],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "73733cde",
+    "customer_id": "cust_0007",
+    "risk_score": 15,
+    "risk_level": "Low",
+    "reasons": [
+      "Transaction made from a device not seen before for this customer"
+    ],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "e1a2209d",
+    "customer_id": "cust_0012",
+    "risk_score": 15,
+    "risk_level": "Low",
+    "reasons": [
+      "Transaction made from a device not seen before for this customer"
+    ],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "b205362e",
+    "customer_id": "cust_0027",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "438acb9a",
+    "customer_id": "cust_0087",
+    "risk_score": 15,
+    "risk_level": "Low",
+    "reasons": [
+      "Transaction made from a device not seen before for this customer"
+    ],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "526fd866",
+    "customer_id": "cust_0056",
+    "risk_score": 15,
+    "risk_level": "Low",
+    "reasons": [
+      "Transaction made from a device not seen before for this customer"
+    ],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "2d67955b",
+    "customer_id": "cust_0084",
+    "risk_score": 15,
+    "risk_level": "Low",
+    "reasons": [
+      "Transaction made from a device not seen before for this customer"
+    ],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "d4d4db49",
+    "customer_id": "cust_0065",
+    "risk_score": 15,
+    "risk_level": "Low",
+    "reasons": [
+      "Transaction made from a device not seen before for this customer"
+    ],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "e81d08f6",
+    "customer_id": "cust_0044",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "2ef26899",
+    "customer_id": "cust_0118",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "1e57721c",
+    "customer_id": "cust_0046",
+    "risk_score": 15,
+    "risk_level": "Low",
+    "reasons": [
+      "Transaction made from a device not seen before for this customer"
+    ],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "a1683ad4",
+    "customer_id": "cust_0024",
+    "risk_score": 15,
+    "risk_level": "Low",
+    "reasons": [
+      "Transaction made from a device not seen before for this customer"
+    ],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "7d1e9088",
+    "customer_id": "cust_0061",
+    "risk_score": 15,
+    "risk_level": "Low",
+    "reasons": [
+      "Transaction made from a device not seen before for this customer"
+    ],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "eb1ddc56",
+    "customer_id": "cust_0116",
+    "risk_score": 15,
+    "risk_level": "Low",
+    "reasons": [
+      "Transaction made from a device not seen before for this customer"
+    ],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "ce38f40a",
+    "customer_id": "cust_0032",
+    "risk_score": 15,
+    "risk_level": "Low",
+    "reasons": [
+      "Transaction made from a device not seen before for this customer"
+    ],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "0a3449c4",
+    "customer_id": "cust_0000",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "fcc3ac24",
+    "customer_id": "cust_0040",
+    "risk_score": 15,
+    "risk_level": "Low",
+    "reasons": [
+      "Transaction made from a device not seen before for this customer"
+    ],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "4c06e532",
+    "customer_id": "cust_0050",
+    "risk_score": 15,
+    "risk_level": "Low",
+    "reasons": [
+      "Transaction made from a device not seen before for this customer"
+    ],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "0766ce54",
+    "customer_id": "cust_0041",
+    "risk_score": 15,
+    "risk_level": "Low",
+    "reasons": [
+      "Transaction made from a device not seen before for this customer"
+    ],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "cf91bddb",
+    "customer_id": "cust_0057",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "70ba02f5",
+    "customer_id": "cust_0088",
+    "risk_score": 15,
+    "risk_level": "Low",
+    "reasons": [
+      "Transaction made from a device not seen before for this customer"
+    ],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "80db9c0a",
+    "customer_id": "cust_0048",
+    "risk_score": 15,
+    "risk_level": "Low",
+    "reasons": [
+      "Transaction made from a device not seen before for this customer"
+    ],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "c2a30f92",
+    "customer_id": "cust_0036",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "982e37bd",
+    "customer_id": "cust_0044",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "ca25f968",
+    "customer_id": "cust_0029",
+    "risk_score": 15,
+    "risk_level": "Low",
+    "reasons": [
+      "Transaction made from a device not seen before for this customer"
+    ],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "55ba9f22",
+    "customer_id": "cust_0078",
+    "risk_score": 15,
+    "risk_level": "Low",
+    "reasons": [
+      "Transaction made from a device not seen before for this customer"
+    ],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "07a97f36",
+    "customer_id": "cust_0030",
+    "risk_score": 15,
+    "risk_level": "Low",
+    "reasons": [
+      "Transaction made from a device not seen before for this customer"
+    ],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "83bfd6e5",
+    "customer_id": "cust_0115",
+    "risk_score": 15,
+    "risk_level": "Low",
+    "reasons": [
+      "Transaction made from a device not seen before for this customer"
+    ],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "63b2affc",
+    "customer_id": "cust_0099",
+    "risk_score": 15,
+    "risk_level": "Low",
+    "reasons": [
+      "Transaction made from a device not seen before for this customer"
+    ],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "320a2634",
+    "customer_id": "cust_0029",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "bc69a028",
+    "customer_id": "cust_0093",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "55b9ed7a",
+    "customer_id": "cust_0074",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "e0bf6f55",
+    "customer_id": "cust_0006",
+    "risk_score": 15,
+    "risk_level": "Low",
+    "reasons": [
+      "Transaction made from a device not seen before for this customer"
+    ],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "0ca0f1fb",
+    "customer_id": "cust_0018",
+    "risk_score": 15,
+    "risk_level": "Low",
+    "reasons": [
+      "Transaction made from a device not seen before for this customer"
+    ],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "f92ba63d",
+    "customer_id": "cust_0111",
+    "risk_score": 15,
+    "risk_level": "Low",
+    "reasons": [
+      "Transaction made from a device not seen before for this customer"
+    ],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "6e22648d",
+    "customer_id": "cust_0033",
+    "risk_score": 15,
+    "risk_level": "Low",
+    "reasons": [
+      "Transaction made from a device not seen before for this customer"
+    ],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "346700d5",
+    "customer_id": "cust_0012",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "fb221764",
+    "customer_id": "cust_0038",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "d28db5b0",
+    "customer_id": "cust_0085",
+    "risk_score": 15,
+    "risk_level": "Low",
+    "reasons": [
+      "Transaction made from a device not seen before for this customer"
+    ],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "eef48c21",
+    "customer_id": "cust_0034",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "b0159eaa",
+    "customer_id": "cust_0015",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "a8d01161",
+    "customer_id": "cust_0008",
+    "risk_score": 15,
+    "risk_level": "Low",
+    "reasons": [
+      "Transaction made from a device not seen before for this customer"
+    ],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "49c41f5a",
+    "customer_id": "cust_0013",
+    "risk_score": 15,
+    "risk_level": "Low",
+    "reasons": [
+      "Transaction made from a device not seen before for this customer"
+    ],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "4db63d26",
+    "customer_id": "cust_0076",
+    "risk_score": 15,
+    "risk_level": "Low",
+    "reasons": [
+      "Transaction made from a device not seen before for this customer"
+    ],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "1dd6025a",
+    "customer_id": "cust_0051",
+    "risk_score": 15,
+    "risk_level": "Low",
+    "reasons": [
+      "Transaction made from a device not seen before for this customer"
+    ],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "8f37fe50",
+    "customer_id": "cust_0081",
+    "risk_score": 15,
+    "risk_level": "Low",
+    "reasons": [
+      "Transaction made from a device not seen before for this customer"
+    ],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "13f9e545",
+    "customer_id": "cust_0091",
+    "risk_score": 15,
+    "risk_level": "Low",
+    "reasons": [
+      "Transaction made from a device not seen before for this customer"
+    ],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "1ddf7104",
+    "customer_id": "cust_0080",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "48df04d1",
+    "customer_id": "cust_0093",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "9fa93577",
+    "customer_id": "cust_0091",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "f146b5a6",
+    "customer_id": "cust_0113",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "694ccf8a",
+    "customer_id": "cust_0049",
+    "risk_score": 15,
+    "risk_level": "Low",
+    "reasons": [
+      "Transaction made from a device not seen before for this customer"
+    ],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "1fb00181",
+    "customer_id": "cust_0079",
+    "risk_score": 15,
+    "risk_level": "Low",
+    "reasons": [
+      "Transaction made from a device not seen before for this customer"
+    ],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "3f8aaa23",
+    "customer_id": "cust_0117",
+    "risk_score": 15,
+    "risk_level": "Low",
+    "reasons": [
+      "Transaction made from a device not seen before for this customer"
+    ],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "8f205a20",
+    "customer_id": "cust_0109",
+    "risk_score": 15,
+    "risk_level": "Low",
+    "reasons": [
+      "Transaction made from a device not seen before for this customer"
+    ],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "9b5cc48b",
+    "customer_id": "cust_0046",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "ce37d22c",
+    "customer_id": "cust_rule_004",
+    "risk_score": 100,
+    "risk_level": "Critical",
+    "reasons": [
+      "Device is on the blocklist"
+    ],
+    "action": "Manual Review"
+  },
+  {
+    "transaction_id": "1a1c5d86",
+    "customer_id": "cust_0004",
+    "risk_score": 15,
+    "risk_level": "Low",
+    "reasons": [
+      "Transaction made from a device not seen before for this customer"
+    ],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "d716eb79",
+    "customer_id": "cust_0080",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "14710e48",
+    "customer_id": "cust_0011",
+    "risk_score": 15,
+    "risk_level": "Low",
+    "reasons": [
+      "Transaction made from a device not seen before for this customer"
+    ],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "db08ef79",
+    "customer_id": "cust_0000",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "50143e47",
+    "customer_id": "cust_0060",
+    "risk_score": 15,
+    "risk_level": "Low",
+    "reasons": [
+      "Transaction made from a device not seen before for this customer"
+    ],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "d90d48e5",
+    "customer_id": "cust_0087",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "e4cccc57",
+    "customer_id": "cust_0017",
+    "risk_score": 15,
+    "risk_level": "Low",
+    "reasons": [
+      "Transaction made from a device not seen before for this customer"
+    ],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "0b5ccdaa",
+    "customer_id": "cust_0006",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "aed0775b",
+    "customer_id": "cust_0010",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "a8c72977",
+    "customer_id": "cust_0078",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "01165948",
+    "customer_id": "cust_0021",
+    "risk_score": 15,
+    "risk_level": "Low",
+    "reasons": [
+      "Transaction made from a device not seen before for this customer"
+    ],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "e80568f9",
+    "customer_id": "cust_0063",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "ed94aacc",
+    "customer_id": "cust_0100",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "913e26ac",
+    "customer_id": "cust_0049",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "4eb864b6",
+    "customer_id": "cust_0030",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "13b19948",
+    "customer_id": "cust_0106",
+    "risk_score": 15,
+    "risk_level": "Low",
+    "reasons": [
+      "Transaction made from a device not seen before for this customer"
+    ],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "5a606189",
+    "customer_id": "cust_0009",
+    "risk_score": 15,
+    "risk_level": "Low",
+    "reasons": [
+      "Transaction made from a device not seen before for this customer"
+    ],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "86e77d02",
+    "customer_id": "cust_0109",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "47dab479",
+    "customer_id": "cust_0035",
+    "risk_score": 15,
+    "risk_level": "Low",
+    "reasons": [
+      "Transaction made from a device not seen before for this customer"
+    ],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "7410d84d",
+    "customer_id": "cust_0100",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "9ca93152",
+    "customer_id": "cust_0110",
+    "risk_score": 15,
+    "risk_level": "Low",
+    "reasons": [
+      "Transaction made from a device not seen before for this customer"
+    ],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "46506feb",
+    "customer_id": "cust_0066",
+    "risk_score": 15,
+    "risk_level": "Low",
+    "reasons": [
+      "Transaction made from a device not seen before for this customer"
+    ],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "6ccd9779",
+    "customer_id": "cust_0019",
+    "risk_score": 15,
+    "risk_level": "Low",
+    "reasons": [
+      "Transaction made from a device not seen before for this customer"
+    ],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "e09aaa78",
+    "customer_id": "cust_0008",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "17f28b1b",
+    "customer_id": "cust_0020",
+    "risk_score": 15,
+    "risk_level": "Low",
+    "reasons": [
+      "Transaction made from a device not seen before for this customer"
+    ],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "9d76a2f5",
+    "customer_id": "cust_0029",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "db991dce",
+    "customer_id": "cust_0053",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "41a04aa0",
+    "customer_id": "cust_0003",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "9aa4f12b",
+    "customer_id": "cust_0081",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "c925f105",
+    "customer_id": "cust_0061",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "1d9bfb9c",
+    "customer_id": "cust_0052",
+    "risk_score": 15,
+    "risk_level": "Low",
+    "reasons": [
+      "Transaction made from a device not seen before for this customer"
+    ],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "71418be9",
+    "customer_id": "cust_0004",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "1f7c5cb3",
+    "customer_id": "cust_0062",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "2b323999",
+    "customer_id": "cust_0050",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "3c240da6",
+    "customer_id": "cust_0018",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "223f38c8",
+    "customer_id": "cust_0000",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "7161dd17",
+    "customer_id": "cust_0084",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "b5e2b59d",
+    "customer_id": "cust_0097",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "98ac2a4e",
+    "customer_id": "cust_0118",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "b04d1033",
+    "customer_id": "cust_0116",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "6fa219b9",
+    "customer_id": "cust_0112",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "07afc23e",
+    "customer_id": "cust_0037",
+    "risk_score": 15,
+    "risk_level": "Low",
+    "reasons": [
+      "Transaction made from a device not seen before for this customer"
+    ],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "d106c1c7",
+    "customer_id": "cust_0046",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "b6ede44f",
+    "customer_id": "cust_0021",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "68626469",
+    "customer_id": "cust_0064",
+    "risk_score": 15,
+    "risk_level": "Low",
+    "reasons": [
+      "Transaction made from a device not seen before for this customer"
+    ],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "521e100f",
+    "customer_id": "cust_0108",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "b4b7ca97",
+    "customer_id": "cust_0047",
+    "risk_score": 15,
+    "risk_level": "Low",
+    "reasons": [
+      "Transaction made from a device not seen before for this customer"
+    ],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "be41693a",
+    "customer_id": "cust_0070",
+    "risk_score": 15,
+    "risk_level": "Low",
+    "reasons": [
+      "Transaction made from a device not seen before for this customer"
+    ],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "165b2dbb",
+    "customer_id": "cust_0074",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "706b4537",
+    "customer_id": "cust_0006",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "85d446ff",
+    "customer_id": "cust_0117",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "85511d61",
+    "customer_id": "cust_susp_004",
+    "risk_score": 45,
+    "risk_level": "Medium",
+    "reasons": [
+      "Customer used 3 different channels within a short time window",
+      "Transaction made from a device not seen before for this customer"
+    ],
+    "action": "Monitor"
+  },
+  {
+    "transaction_id": "9bf23d85",
+    "customer_id": "cust_susp_004",
+    "risk_score": 30,
+    "risk_level": "Medium",
+    "reasons": [
+      "Customer used 3 different channels within a short time window"
+    ],
+    "action": "Monitor"
+  },
+  {
+    "transaction_id": "4c1d600e",
+    "customer_id": "cust_0042",
+    "risk_score": 15,
+    "risk_level": "Low",
+    "reasons": [
+      "Transaction made from a device not seen before for this customer"
+    ],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "226bcf45",
+    "customer_id": "cust_susp_004",
+    "risk_score": 30,
+    "risk_level": "Medium",
+    "reasons": [
+      "Customer used 3 different channels within a short time window"
+    ],
+    "action": "Monitor"
+  },
+  {
+    "transaction_id": "cba68faf",
+    "customer_id": "cust_0002",
+    "risk_score": 15,
+    "risk_level": "Low",
+    "reasons": [
+      "Transaction made from a device not seen before for this customer"
+    ],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "cd9c6a34",
+    "customer_id": "cust_0087",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "272cdf93",
+    "customer_id": "cust_0012",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "6cd43c1e",
+    "customer_id": "cust_0066",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "8d1d2284",
+    "customer_id": "cust_0009",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "cd05892d",
+    "customer_id": "cust_0023",
+    "risk_score": 15,
+    "risk_level": "Low",
+    "reasons": [
+      "Transaction made from a device not seen before for this customer"
+    ],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "94c1c8d8",
+    "customer_id": "cust_0080",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "001a46a3",
+    "customer_id": "cust_0048",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "47ad8651",
+    "customer_id": "cust_0035",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "875abe67",
+    "customer_id": "cust_0075",
+    "risk_score": 15,
+    "risk_level": "Low",
+    "reasons": [
+      "Transaction made from a device not seen before for this customer"
+    ],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "d832c6b7",
+    "customer_id": "cust_0046",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "2a513080",
+    "customer_id": "cust_0064",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "7597f37e",
+    "customer_id": "cust_0096",
+    "risk_score": 15,
+    "risk_level": "Low",
+    "reasons": [
+      "Transaction made from a device not seen before for this customer"
+    ],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "d09e4dff",
+    "customer_id": "cust_0112",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "a792c430",
+    "customer_id": "cust_0111",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "19b986ee",
+    "customer_id": "cust_0005",
+    "risk_score": 15,
+    "risk_level": "Low",
+    "reasons": [
+      "Transaction made from a device not seen before for this customer"
+    ],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "74972ef4",
+    "customer_id": "cust_0094",
+    "risk_score": 15,
+    "risk_level": "Low",
+    "reasons": [
+      "Transaction made from a device not seen before for this customer"
+    ],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "f031502b",
+    "customer_id": "cust_0014",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "9cab89b0",
+    "customer_id": "cust_0092",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "94635f30",
+    "customer_id": "cust_0005",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "ac741c08",
+    "customer_id": "cust_0002",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "78afae1b",
+    "customer_id": "cust_0042",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "a5a17241",
+    "customer_id": "cust_0110",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "7d0e0bf4",
+    "customer_id": "cust_0096",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "0f6bea65",
+    "customer_id": "cust_0026",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "56356645",
+    "customer_id": "cust_0095",
+    "risk_score": 15,
+    "risk_level": "Low",
+    "reasons": [
+      "Transaction made from a device not seen before for this customer"
+    ],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "f81eeae2",
+    "customer_id": "cust_0024",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "b02c2ef9",
+    "customer_id": "cust_0106",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "377c851f",
+    "customer_id": "cust_0024",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "304a3739",
+    "customer_id": "cust_0002",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "47fb535a",
+    "customer_id": "cust_0027",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "50520abd",
+    "customer_id": "cust_0018",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "a08a25d0",
+    "customer_id": "cust_0089",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "53971264",
+    "customer_id": "cust_0037",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "3535223f",
+    "customer_id": "cust_0061",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "f714dfac",
+    "customer_id": "cust_0021",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "e43443c3",
+    "customer_id": "cust_0099",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "4a0ff925",
+    "customer_id": "cust_0011",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "2ce94c04",
+    "customer_id": "cust_0097",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "6cf19de6",
+    "customer_id": "cust_0081",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "4aa511dc",
+    "customer_id": "cust_0021",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "4fc8be73",
+    "customer_id": "cust_0105",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "1ed27f4e",
+    "customer_id": "cust_0047",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "cd14e386",
+    "customer_id": "cust_0020",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "ad547a14",
+    "customer_id": "cust_0069",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "efc0f106",
+    "customer_id": "cust_0047",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "117e655b",
+    "customer_id": "cust_0117",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "261a9755",
+    "customer_id": "cust_0014",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "1365ce36",
+    "customer_id": "cust_0062",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "f30536ce",
+    "customer_id": "cust_0029",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "c51aecb5",
+    "customer_id": "cust_0050",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "78503739",
+    "customer_id": "cust_0065",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "f9149cdd",
+    "customer_id": "cust_0038",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "b6de4ac0",
+    "customer_id": "cust_0018",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "00e5a8ec",
+    "customer_id": "cust_0033",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "e6594064",
+    "customer_id": "cust_0092",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "5e199fcd",
+    "customer_id": "cust_0016",
+    "risk_score": 15,
+    "risk_level": "Low",
+    "reasons": [
+      "Transaction made from a device not seen before for this customer"
+    ],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "afdb0fdc",
+    "customer_id": "cust_0083",
+    "risk_score": 15,
+    "risk_level": "Low",
+    "reasons": [
+      "Transaction made from a device not seen before for this customer"
+    ],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "bfcd603b",
+    "customer_id": "cust_0068",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "bc8018f0",
+    "customer_id": "cust_0058",
+    "risk_score": 15,
+    "risk_level": "Low",
+    "reasons": [
+      "Transaction made from a device not seen before for this customer"
+    ],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "4ecd4c13",
+    "customer_id": "cust_0057",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "1fb5f92e",
+    "customer_id": "cust_susp_006",
+    "risk_score": 45,
+    "risk_level": "Medium",
+    "reasons": [
+      "Customer used 3 different channels within a short time window",
+      "Transaction made from a device not seen before for this customer"
+    ],
+    "action": "Monitor"
+  },
+  {
+    "transaction_id": "044d7692",
+    "customer_id": "cust_susp_006",
+    "risk_score": 30,
+    "risk_level": "Medium",
+    "reasons": [
+      "Customer used 3 different channels within a short time window"
+    ],
+    "action": "Monitor"
+  },
+  {
+    "transaction_id": "734b977e",
+    "customer_id": "cust_susp_006",
+    "risk_score": 30,
+    "risk_level": "Medium",
+    "reasons": [
+      "Customer used 3 different channels within a short time window"
+    ],
+    "action": "Monitor"
+  },
+  {
+    "transaction_id": "0fb4c4f5",
+    "customer_id": "cust_0013",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "4db1aad7",
+    "customer_id": "cust_0043",
+    "risk_score": 15,
+    "risk_level": "Low",
+    "reasons": [
+      "Transaction made from a device not seen before for this customer"
+    ],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "378e7fc0",
+    "customer_id": "cust_0091",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "00ba1c79",
+    "customer_id": "cust_0109",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "0c5e01f6",
+    "customer_id": "cust_0108",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "99304f37",
+    "customer_id": "cust_0056",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "d64c5614",
+    "customer_id": "cust_0021",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "d81cacba",
+    "customer_id": "cust_0084",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "53db15a0",
+    "customer_id": "cust_0006",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "2901c885",
+    "customer_id": "cust_0046",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "d2d5e85e",
+    "customer_id": "cust_0049",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "f0bc71e8",
+    "customer_id": "cust_0050",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "f624596b",
+    "customer_id": "cust_0053",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "ad8e3a4f",
+    "customer_id": "cust_susp_003",
+    "risk_score": 45,
+    "risk_level": "Medium",
+    "reasons": [
+      "Customer used 3 different channels within a short time window",
+      "Transaction made from a device not seen before for this customer"
+    ],
+    "action": "Monitor"
+  },
+  {
+    "transaction_id": "8513b5d7",
+    "customer_id": "cust_0040",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "3e371b6e",
+    "customer_id": "cust_susp_003",
+    "risk_score": 30,
+    "risk_level": "Medium",
+    "reasons": [
+      "Customer used 3 different channels within a short time window"
+    ],
+    "action": "Monitor"
+  },
+  {
+    "transaction_id": "0b59efc2",
+    "customer_id": "cust_susp_003",
+    "risk_score": 30,
+    "risk_level": "Medium",
+    "reasons": [
+      "Customer used 3 different channels within a short time window"
+    ],
+    "action": "Monitor"
+  },
+  {
+    "transaction_id": "406b64fa",
+    "customer_id": "cust_0099",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "76a882e0",
+    "customer_id": "cust_0018",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "f9d171b7",
+    "customer_id": "cust_0117",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "c550b4af",
+    "customer_id": "cust_0077",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "c7ebbcb5",
+    "customer_id": "cust_0067",
+    "risk_score": 15,
+    "risk_level": "Low",
+    "reasons": [
+      "Transaction made from a device not seen before for this customer"
+    ],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "e6b630e8",
+    "customer_id": "cust_0073",
+    "risk_score": 15,
+    "risk_level": "Low",
+    "reasons": [
+      "Transaction made from a device not seen before for this customer"
+    ],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "b8d70ff2",
+    "customer_id": "cust_0100",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "9690a9e6",
+    "customer_id": "cust_0027",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "71206391",
+    "customer_id": "cust_0112",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "c69f4db5",
+    "customer_id": "cust_0007",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "2f16760a",
+    "customer_id": "cust_0057",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "a7a7548f",
+    "customer_id": "cust_0064",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "d556dcce",
+    "customer_id": "cust_0042",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "c80f168a",
+    "customer_id": "cust_0005",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "06823311",
+    "customer_id": "cust_0118",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "e6738c2f",
+    "customer_id": "cust_0033",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "0d9604ca",
+    "customer_id": "cust_susp_014",
+    "risk_score": 65,
+    "risk_level": "High",
+    "reasons": [
+      "Customer used 4 different channels within a short time window",
+      "4 transactions detected in a short time window",
+      "Transaction made from a device not seen before for this customer"
+    ],
+    "action": "Manual Review"
+  },
+  {
+    "transaction_id": "3e653269",
+    "customer_id": "cust_susp_014",
+    "risk_score": 50,
+    "risk_level": "Medium",
+    "reasons": [
+      "Customer used 4 different channels within a short time window",
+      "4 transactions detected in a short time window"
+    ],
+    "action": "Monitor"
+  },
+  {
+    "transaction_id": "abf72765",
+    "customer_id": "cust_susp_014",
+    "risk_score": 50,
+    "risk_level": "Medium",
+    "reasons": [
+      "Customer used 4 different channels within a short time window",
+      "4 transactions detected in a short time window"
+    ],
+    "action": "Monitor"
+  },
+  {
+    "transaction_id": "97ccbce1",
+    "customer_id": "cust_0082",
+    "risk_score": 15,
+    "risk_level": "Low",
+    "reasons": [
+      "Transaction made from a device not seen before for this customer"
+    ],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "3e7cefb4",
+    "customer_id": "cust_susp_014",
+    "risk_score": 50,
+    "risk_level": "Medium",
+    "reasons": [
+      "Customer used 4 different channels within a short time window",
+      "4 transactions detected in a short time window"
+    ],
+    "action": "Monitor"
+  },
+  {
+    "transaction_id": "69795140",
+    "customer_id": "cust_0064",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "73ad2a20",
+    "customer_id": "cust_0059",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "8b1c5618",
+    "customer_id": "cust_0052",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "8234f94c",
+    "customer_id": "cust_0079",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "78cd371e",
+    "customer_id": "cust_0052",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "fdc03de5",
+    "customer_id": "cust_0083",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "7d1dd231",
+    "customer_id": "cust_0112",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "9b3c09fd",
+    "customer_id": "cust_0051",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "ce48d72c",
+    "customer_id": "cust_0090",
+    "risk_score": 15,
+    "risk_level": "Low",
+    "reasons": [
+      "Transaction made from a device not seen before for this customer"
+    ],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "88b0989e",
+    "customer_id": "cust_0102",
+    "risk_score": 15,
+    "risk_level": "Low",
+    "reasons": [
+      "Transaction made from a device not seen before for this customer"
+    ],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "fcfeef05",
+    "customer_id": "cust_0105",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "d39c554b",
+    "customer_id": "cust_0031",
+    "risk_score": 15,
+    "risk_level": "Low",
+    "reasons": [
+      "Transaction made from a device not seen before for this customer"
+    ],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "d313daf2",
+    "customer_id": "cust_0106",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "0d9b9cf2",
+    "customer_id": "cust_0118",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "0ddf87b0",
+    "customer_id": "cust_0067",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "a1f00ad6",
+    "customer_id": "cust_0075",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "5c61e9d2",
+    "customer_id": "cust_0025",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "4117bc82",
+    "customer_id": "cust_0111",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "1f96d792",
+    "customer_id": "cust_0029",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "185d55ec",
+    "customer_id": "cust_susp_009",
+    "risk_score": 65,
+    "risk_level": "High",
+    "reasons": [
+      "Customer used 4 different channels within a short time window",
+      "4 transactions detected in a short time window",
+      "Transaction made from a device not seen before for this customer"
+    ],
+    "action": "Manual Review"
+  },
+  {
+    "transaction_id": "3b04da9b",
+    "customer_id": "cust_susp_009",
+    "risk_score": 50,
+    "risk_level": "Medium",
+    "reasons": [
+      "Customer used 4 different channels within a short time window",
+      "4 transactions detected in a short time window"
+    ],
+    "action": "Monitor"
+  },
+  {
+    "transaction_id": "2ec5389c",
+    "customer_id": "cust_susp_009",
+    "risk_score": 50,
+    "risk_level": "Medium",
+    "reasons": [
+      "Customer used 4 different channels within a short time window",
+      "4 transactions detected in a short time window"
+    ],
+    "action": "Monitor"
+  },
+  {
+    "transaction_id": "97de91fb",
+    "customer_id": "cust_susp_009",
+    "risk_score": 50,
+    "risk_level": "Medium",
+    "reasons": [
+      "Customer used 4 different channels within a short time window",
+      "4 transactions detected in a short time window"
+    ],
+    "action": "Monitor"
+  },
+  {
+    "transaction_id": "d7615dbe",
+    "customer_id": "cust_0035",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "0174be2e",
+    "customer_id": "cust_0100",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "6796747f",
+    "customer_id": "cust_0040",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "de67eb62",
+    "customer_id": "cust_0063",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "7681d8b3",
+    "customer_id": "cust_0032",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "27c30ce3",
+    "customer_id": "cust_0052",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "8546d447",
+    "customer_id": "cust_0040",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "6eb26645",
+    "customer_id": "cust_0037",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "998dc6bb",
+    "customer_id": "cust_0093",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "387e19b0",
+    "customer_id": "cust_0083",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "92e6b9b3",
+    "customer_id": "cust_0046",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "0d0e8fd9",
+    "customer_id": "cust_0113",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "b8ff906b",
+    "customer_id": "cust_0093",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "03e3dbfd",
+    "customer_id": "cust_0040",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "0011b40e",
+    "customer_id": "cust_0072",
+    "risk_score": 15,
+    "risk_level": "Low",
+    "reasons": [
+      "Transaction made from a device not seen before for this customer"
+    ],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "085b3a4f",
+    "customer_id": "cust_0104",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "343d8098",
+    "customer_id": "cust_0071",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "06763f3b",
+    "customer_id": "cust_0060",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "f6019e71",
+    "customer_id": "cust_0068",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "cf08fbf4",
+    "customer_id": "cust_0078",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "e438431a",
+    "customer_id": "cust_0023",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "980d8fc9",
+    "customer_id": "cust_0056",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "b2f7ae8c",
+    "customer_id": "cust_0074",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "9fc751a5",
+    "customer_id": "cust_0016",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "2bf22908",
+    "customer_id": "cust_0056",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "b01a3398",
+    "customer_id": "cust_0115",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "4ae18885",
+    "customer_id": "cust_0062",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "0be669c0",
+    "customer_id": "cust_0089",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "fd5eee65",
+    "customer_id": "cust_0020",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "d6324c0a",
+    "customer_id": "cust_0084",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "6944a628",
+    "customer_id": "cust_0030",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "1172ed6e",
+    "customer_id": "cust_0063",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "2707589e",
+    "customer_id": "cust_0118",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "1f0622e6",
+    "customer_id": "cust_0107",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "c34cff01",
+    "customer_id": "cust_0041",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "042581e3",
+    "customer_id": "cust_0061",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "db33bfbc",
+    "customer_id": "cust_0021",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "2e2b57c2",
+    "customer_id": "cust_0107",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "1ebb5229",
+    "customer_id": "cust_0032",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "cf144eda",
+    "customer_id": "cust_0065",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "56fbe810",
+    "customer_id": "cust_0065",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "6ad245af",
+    "customer_id": "cust_0104",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "a9b0c29e",
+    "customer_id": "cust_0056",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "3029e78a",
+    "customer_id": "cust_0050",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "1989bb53",
+    "customer_id": "cust_0102",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "7aeb2d1a",
+    "customer_id": "cust_0022",
+    "risk_score": 15,
+    "risk_level": "Low",
+    "reasons": [
+      "Transaction made from a device not seen before for this customer"
+    ],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "48f2e4f6",
+    "customer_id": "cust_0023",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "190655fb",
+    "customer_id": "cust_0003",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "d4134eb8",
+    "customer_id": "cust_0001",
+    "risk_score": 15,
+    "risk_level": "Low",
+    "reasons": [
+      "Transaction made from a device not seen before for this customer"
+    ],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "cdcbf361",
+    "customer_id": "cust_0041",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "7cdc57fb",
+    "customer_id": "cust_0071",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "0db0132f",
+    "customer_id": "cust_0028",
+    "risk_score": 15,
+    "risk_level": "Low",
+    "reasons": [
+      "Transaction made from a device not seen before for this customer"
+    ],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "945fe7f1",
+    "customer_id": "cust_0088",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "e270ed63",
+    "customer_id": "cust_0065",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "054ccd86",
+    "customer_id": "cust_0027",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "302f2957",
+    "customer_id": "cust_0039",
+    "risk_score": 15,
+    "risk_level": "Low",
+    "reasons": [
+      "Transaction made from a device not seen before for this customer"
+    ],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "6e96008d",
+    "customer_id": "cust_0033",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "d812b30e",
+    "customer_id": "cust_0077",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "27544046",
+    "customer_id": "cust_0109",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "62cd3075",
+    "customer_id": "cust_0091",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "854a373a",
+    "customer_id": "cust_0116",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "5b4c6441",
+    "customer_id": "cust_0066",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "87bc3a3c",
+    "customer_id": "cust_0097",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "7a3d7c3d",
+    "customer_id": "cust_0093",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "a102c9ac",
+    "customer_id": "cust_0076",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "bf7115cd",
+    "customer_id": "cust_0111",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "a9acc398",
+    "customer_id": "cust_0033",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "c5a34299",
+    "customer_id": "cust_0031",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "ce1fbc23",
+    "customer_id": "cust_0113",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "04aca115",
+    "customer_id": "cust_0042",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "0e875a17",
+    "customer_id": "cust_rule_002",
+    "risk_score": 65,
+    "risk_level": "High",
+    "reasons": [
+      "Customer used 4 different channels within a short time window",
+      "6 transactions detected in a short time window",
+      "Transaction made from a device not seen before for this customer"
+    ],
+    "action": "Manual Review"
+  },
+  {
+    "transaction_id": "31da35d6",
+    "customer_id": "cust_rule_002",
+    "risk_score": 50,
+    "risk_level": "Medium",
+    "reasons": [
+      "Customer used 4 different channels within a short time window",
+      "6 transactions detected in a short time window"
+    ],
+    "action": "Monitor"
+  },
+  {
+    "transaction_id": "6dfe0c95",
+    "customer_id": "cust_rule_002",
+    "risk_score": 50,
+    "risk_level": "Medium",
+    "reasons": [
+      "Customer used 4 different channels within a short time window",
+      "6 transactions detected in a short time window"
+    ],
+    "action": "Monitor"
+  },
+  {
+    "transaction_id": "78878a34",
+    "customer_id": "cust_rule_002",
+    "risk_score": 50,
+    "risk_level": "Medium",
+    "reasons": [
+      "Customer used 4 different channels within a short time window",
+      "6 transactions detected in a short time window"
+    ],
+    "action": "Monitor"
+  },
+  {
+    "transaction_id": "18875959",
+    "customer_id": "cust_rule_002",
+    "risk_score": 100,
+    "risk_level": "Critical",
+    "reasons": [
+      "5 transactions within a 2-minute window"
+    ],
+    "action": "Manual Review"
+  },
+  {
+    "transaction_id": "4c7b30c6",
+    "customer_id": "cust_rule_002",
+    "risk_score": 100,
+    "risk_level": "Critical",
+    "reasons": [
+      "6 transactions within a 2-minute window"
+    ],
+    "action": "Manual Review"
+  },
+  {
+    "transaction_id": "eafc78cb",
+    "customer_id": "cust_susp_008",
+    "risk_score": 45,
+    "risk_level": "Medium",
+    "reasons": [
+      "Customer used 3 different channels within a short time window",
+      "Transaction made from a device not seen before for this customer"
+    ],
+    "action": "Monitor"
+  },
+  {
+    "transaction_id": "35957d87",
+    "customer_id": "cust_susp_008",
+    "risk_score": 30,
+    "risk_level": "Medium",
+    "reasons": [
+      "Customer used 3 different channels within a short time window"
+    ],
+    "action": "Monitor"
+  },
+  {
+    "transaction_id": "19d51d86",
+    "customer_id": "cust_susp_008",
+    "risk_score": 30,
+    "risk_level": "Medium",
+    "reasons": [
+      "Customer used 3 different channels within a short time window"
+    ],
+    "action": "Monitor"
+  },
+  {
+    "transaction_id": "9a6ee6fe",
+    "customer_id": "cust_0038",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "415705b7",
+    "customer_id": "cust_rule_007",
+    "risk_score": 100,
+    "risk_level": "Critical",
+    "reasons": [
+      "Device is on the blocklist"
+    ],
+    "action": "Manual Review"
+  },
+  {
+    "transaction_id": "776ac90f",
+    "customer_id": "cust_0040",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "5fe44156",
+    "customer_id": "cust_0088",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "b60d7787",
+    "customer_id": "cust_susp_001",
+    "risk_score": 65,
+    "risk_level": "High",
+    "reasons": [
+      "Customer used 4 different channels within a short time window",
+      "4 transactions detected in a short time window",
+      "Transaction made from a device not seen before for this customer"
+    ],
+    "action": "Manual Review"
+  },
+  {
+    "transaction_id": "20393db8",
+    "customer_id": "cust_susp_001",
+    "risk_score": 50,
+    "risk_level": "Medium",
+    "reasons": [
+      "Customer used 4 different channels within a short time window",
+      "4 transactions detected in a short time window"
+    ],
+    "action": "Monitor"
+  },
+  {
+    "transaction_id": "39b25066",
+    "customer_id": "cust_susp_001",
+    "risk_score": 50,
+    "risk_level": "Medium",
+    "reasons": [
+      "Customer used 4 different channels within a short time window",
+      "4 transactions detected in a short time window"
+    ],
+    "action": "Monitor"
+  },
+  {
+    "transaction_id": "2def9bf5",
+    "customer_id": "cust_susp_001",
+    "risk_score": 50,
+    "risk_level": "Medium",
+    "reasons": [
+      "Customer used 4 different channels within a short time window",
+      "4 transactions detected in a short time window"
+    ],
+    "action": "Monitor"
+  },
+  {
+    "transaction_id": "149fafc7",
+    "customer_id": "cust_0062",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "dc38bd28",
+    "customer_id": "cust_0101",
+    "risk_score": 15,
+    "risk_level": "Low",
+    "reasons": [
+      "Transaction made from a device not seen before for this customer"
+    ],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "78ffb301",
+    "customer_id": "cust_0055",
+    "risk_score": 15,
+    "risk_level": "Low",
+    "reasons": [
+      "Transaction made from a device not seen before for this customer"
+    ],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "07db9c76",
+    "customer_id": "cust_0020",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "74549f80",
+    "customer_id": "cust_0042",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "8f9ed529",
+    "customer_id": "cust_0004",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "147d6387",
+    "customer_id": "cust_0064",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "8b365ddd",
+    "customer_id": "cust_susp_012",
+    "risk_score": 65,
+    "risk_level": "High",
+    "reasons": [
+      "Customer used 4 different channels within a short time window",
+      "4 transactions detected in a short time window",
+      "Transaction made from a device not seen before for this customer"
+    ],
+    "action": "Manual Review"
+  },
+  {
+    "transaction_id": "8212a11b",
+    "customer_id": "cust_susp_012",
+    "risk_score": 50,
+    "risk_level": "Medium",
+    "reasons": [
+      "Customer used 4 different channels within a short time window",
+      "4 transactions detected in a short time window"
+    ],
+    "action": "Monitor"
+  },
+  {
+    "transaction_id": "9985508b",
+    "customer_id": "cust_susp_012",
+    "risk_score": 50,
+    "risk_level": "Medium",
+    "reasons": [
+      "Customer used 4 different channels within a short time window",
+      "4 transactions detected in a short time window"
+    ],
+    "action": "Monitor"
+  },
+  {
+    "transaction_id": "3ce3aa7b",
+    "customer_id": "cust_susp_012",
+    "risk_score": 50,
+    "risk_level": "Medium",
+    "reasons": [
+      "Customer used 4 different channels within a short time window",
+      "4 transactions detected in a short time window"
+    ],
+    "action": "Monitor"
+  },
+  {
+    "transaction_id": "a1bd7576",
+    "customer_id": "cust_0055",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "c4d0d47c",
+    "customer_id": "cust_susp_013",
+    "risk_score": 65,
+    "risk_level": "High",
+    "reasons": [
+      "Customer used 4 different channels within a short time window",
+      "4 transactions detected in a short time window",
+      "Transaction made from a device not seen before for this customer"
+    ],
+    "action": "Manual Review"
+  },
+  {
+    "transaction_id": "cac03a83",
+    "customer_id": "cust_0109",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "d33285bd",
+    "customer_id": "cust_susp_013",
+    "risk_score": 50,
+    "risk_level": "Medium",
+    "reasons": [
+      "Customer used 4 different channels within a short time window",
+      "4 transactions detected in a short time window"
+    ],
+    "action": "Monitor"
+  },
+  {
+    "transaction_id": "087086eb",
+    "customer_id": "cust_0049",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "d6ce11e4",
+    "customer_id": "cust_susp_013",
+    "risk_score": 50,
+    "risk_level": "Medium",
+    "reasons": [
+      "Customer used 4 different channels within a short time window",
+      "4 transactions detected in a short time window"
+    ],
+    "action": "Monitor"
+  },
+  {
+    "transaction_id": "31cde24c",
+    "customer_id": "cust_susp_013",
+    "risk_score": 50,
+    "risk_level": "Medium",
+    "reasons": [
+      "Customer used 4 different channels within a short time window",
+      "4 transactions detected in a short time window"
+    ],
+    "action": "Monitor"
+  },
+  {
+    "transaction_id": "b1f4291d",
+    "customer_id": "cust_0006",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "55ebbecf",
+    "customer_id": "cust_0070",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "b9bdc92a",
+    "customer_id": "cust_0103",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "d27132a8",
+    "customer_id": "cust_0102",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "5d8cc7fc",
+    "customer_id": "cust_0026",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "411c2d34",
+    "customer_id": "cust_0027",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "d24f3a89",
+    "customer_id": "cust_0075",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "606635d6",
+    "customer_id": "cust_0106",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "253d794f",
+    "customer_id": "cust_0078",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "a48859ac",
+    "customer_id": "cust_0016",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "ad688018",
+    "customer_id": "cust_0076",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "f96cb41d",
+    "customer_id": "cust_0026",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "8abc6e19",
+    "customer_id": "cust_0094",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "7d46b846",
+    "customer_id": "cust_0090",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "193da7b5",
+    "customer_id": "cust_0082",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "e566bd3a",
+    "customer_id": "cust_0040",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "0cc3ba3f",
+    "customer_id": "cust_0084",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "4e26c36d",
+    "customer_id": "cust_0114",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "2cfb49a0",
+    "customer_id": "cust_0015",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "db5e7a13",
+    "customer_id": "cust_0111",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "abdc4b20",
+    "customer_id": "cust_0116",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "1f1a5f80",
+    "customer_id": "cust_0090",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "26bc339d",
+    "customer_id": "cust_0007",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "e6f5bc62",
+    "customer_id": "cust_0075",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "4a17d84b",
+    "customer_id": "cust_0053",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "b314f20b",
+    "customer_id": "cust_0057",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "45c5d037",
+    "customer_id": "cust_0003",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "cfacbc7c",
+    "customer_id": "cust_0090",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "448aac47",
+    "customer_id": "cust_0094",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "62af868d",
+    "customer_id": "cust_0090",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "2eeb0056",
+    "customer_id": "cust_0116",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "6e4a832d",
+    "customer_id": "cust_0028",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "43fa55b8",
+    "customer_id": "cust_0115",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "ff476811",
+    "customer_id": "cust_0031",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "8cbf82fd",
+    "customer_id": "cust_0043",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "fe6a2e16",
+    "customer_id": "cust_0063",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "9d4d32af",
+    "customer_id": "cust_0008",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "9229f5a7",
+    "customer_id": "cust_0035",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "303ad6a4",
+    "customer_id": "cust_0001",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "9570f86f",
+    "customer_id": "cust_rule_005",
+    "risk_score": 100,
+    "risk_level": "Critical",
+    "reasons": [
+      "Device is on the blocklist"
+    ],
+    "action": "Manual Review"
+  },
+  {
+    "transaction_id": "149d9765",
+    "customer_id": "cust_0092",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "45ee7590",
+    "customer_id": "cust_0112",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "7ee8d562",
+    "customer_id": "cust_0049",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "e203aab1",
+    "customer_id": "cust_0042",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "39a70dde",
+    "customer_id": "cust_0101",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "02de6051",
+    "customer_id": "cust_0104",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "eec43964",
+    "customer_id": "cust_susp_011",
+    "risk_score": 65,
+    "risk_level": "High",
+    "reasons": [
+      "Customer used 4 different channels within a short time window",
+      "4 transactions detected in a short time window",
+      "Transaction made from a device not seen before for this customer"
+    ],
+    "action": "Manual Review"
+  },
+  {
+    "transaction_id": "ae2f6677",
+    "customer_id": "cust_0097",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "43827219",
+    "customer_id": "cust_susp_011",
+    "risk_score": 50,
+    "risk_level": "Medium",
+    "reasons": [
+      "Customer used 4 different channels within a short time window",
+      "4 transactions detected in a short time window"
+    ],
+    "action": "Monitor"
+  },
+  {
+    "transaction_id": "398b6ff3",
+    "customer_id": "cust_0039",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "2193a44e",
+    "customer_id": "cust_susp_011",
+    "risk_score": 50,
+    "risk_level": "Medium",
+    "reasons": [
+      "Customer used 4 different channels within a short time window",
+      "4 transactions detected in a short time window"
+    ],
+    "action": "Monitor"
+  },
+  {
+    "transaction_id": "99fead28",
+    "customer_id": "cust_susp_011",
+    "risk_score": 50,
+    "risk_level": "Medium",
+    "reasons": [
+      "Customer used 4 different channels within a short time window",
+      "4 transactions detected in a short time window"
+    ],
+    "action": "Monitor"
+  },
+  {
+    "transaction_id": "f77ed6c9",
+    "customer_id": "cust_0000",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "8edd6491",
+    "customer_id": "cust_0033",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "70a7697e",
+    "customer_id": "cust_susp_005",
+    "risk_score": 45,
+    "risk_level": "Medium",
+    "reasons": [
+      "Customer used 3 different channels within a short time window",
+      "Transaction made from a device not seen before for this customer"
+    ],
+    "action": "Monitor"
+  },
+  {
+    "transaction_id": "9b2842d2",
+    "customer_id": "cust_susp_005",
+    "risk_score": 30,
+    "risk_level": "Medium",
+    "reasons": [
+      "Customer used 3 different channels within a short time window"
+    ],
+    "action": "Monitor"
+  },
+  {
+    "transaction_id": "64096c00",
+    "customer_id": "cust_susp_005",
+    "risk_score": 30,
+    "risk_level": "Medium",
+    "reasons": [
+      "Customer used 3 different channels within a short time window"
+    ],
+    "action": "Monitor"
+  },
+  {
+    "transaction_id": "5e97bbd0",
+    "customer_id": "cust_susp_000",
+    "risk_score": 65,
+    "risk_level": "High",
+    "reasons": [
+      "Customer used 4 different channels within a short time window",
+      "4 transactions detected in a short time window",
+      "Transaction made from a device not seen before for this customer"
+    ],
+    "action": "Manual Review"
+  },
+  {
+    "transaction_id": "f9422509",
+    "customer_id": "cust_susp_000",
+    "risk_score": 50,
+    "risk_level": "Medium",
+    "reasons": [
+      "Customer used 4 different channels within a short time window",
+      "4 transactions detected in a short time window"
+    ],
+    "action": "Monitor"
+  },
+  {
+    "transaction_id": "ef336188",
+    "customer_id": "cust_0055",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "1b5800ab",
+    "customer_id": "cust_0091",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "d340733c",
+    "customer_id": "cust_susp_000",
+    "risk_score": 50,
+    "risk_level": "Medium",
+    "reasons": [
+      "Customer used 4 different channels within a short time window",
+      "4 transactions detected in a short time window"
+    ],
+    "action": "Monitor"
+  },
+  {
+    "transaction_id": "376046c4",
+    "customer_id": "cust_susp_000",
+    "risk_score": 50,
+    "risk_level": "Medium",
+    "reasons": [
+      "Customer used 4 different channels within a short time window",
+      "4 transactions detected in a short time window"
+    ],
+    "action": "Monitor"
+  },
+  {
+    "transaction_id": "2aa6b2ca",
+    "customer_id": "cust_0038",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "8067c54a",
+    "customer_id": "cust_0023",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "bc15abf9",
+    "customer_id": "cust_0005",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "4d66316d",
+    "customer_id": "cust_0035",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "453e726a",
+    "customer_id": "cust_0060",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "b4f66030",
+    "customer_id": "cust_0074",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "b2860702",
+    "customer_id": "cust_0053",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "8e098161",
+    "customer_id": "cust_0069",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "a8f663fc",
+    "customer_id": "cust_0067",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "eba00d50",
+    "customer_id": "cust_0038",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "da155fce",
+    "customer_id": "cust_0078",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "3745d8fa",
+    "customer_id": "cust_0019",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "2947915b",
+    "customer_id": "cust_0087",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "b3ec9814",
+    "customer_id": "cust_0048",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "67c1b054",
+    "customer_id": "cust_0041",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "e5fb3359",
+    "customer_id": "cust_0074",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "1d5afb0d",
+    "customer_id": "cust_0070",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "263178bd",
+    "customer_id": "cust_0085",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "f2cf6869",
+    "customer_id": "cust_0102",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "87419087",
+    "customer_id": "cust_0001",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "5339ee9e",
+    "customer_id": "cust_0046",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "2b43ae83",
+    "customer_id": "cust_0115",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "ce5e15e9",
+    "customer_id": "cust_0013",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "85d8ff16",
+    "customer_id": "cust_0028",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "a4ae34d9",
+    "customer_id": "cust_0007",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "7726be6a",
+    "customer_id": "cust_0074",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "444cecd3",
+    "customer_id": "cust_0056",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "93e2172c",
+    "customer_id": "cust_0030",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "13b24f89",
+    "customer_id": "cust_0082",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "1ccca9dd",
+    "customer_id": "cust_0034",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "bdc8ad8b",
+    "customer_id": "cust_0094",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "93d5dc6c",
+    "customer_id": "cust_0068",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "8962beb6",
+    "customer_id": "cust_rule_000",
+    "risk_score": 65,
+    "risk_level": "High",
+    "reasons": [
+      "Customer used 4 different channels within a short time window",
+      "6 transactions detected in a short time window",
+      "Transaction made from a device not seen before for this customer"
+    ],
+    "action": "Manual Review"
+  },
+  {
+    "transaction_id": "277a96cc",
+    "customer_id": "cust_rule_000",
+    "risk_score": 50,
+    "risk_level": "Medium",
+    "reasons": [
+      "Customer used 4 different channels within a short time window",
+      "6 transactions detected in a short time window"
+    ],
+    "action": "Monitor"
+  },
+  {
+    "transaction_id": "329b71b6",
+    "customer_id": "cust_rule_000",
+    "risk_score": 50,
+    "risk_level": "Medium",
+    "reasons": [
+      "Customer used 4 different channels within a short time window",
+      "6 transactions detected in a short time window"
+    ],
+    "action": "Monitor"
+  },
+  {
+    "transaction_id": "2f1da84b",
+    "customer_id": "cust_rule_000",
+    "risk_score": 50,
+    "risk_level": "Medium",
+    "reasons": [
+      "Customer used 4 different channels within a short time window",
+      "6 transactions detected in a short time window"
+    ],
+    "action": "Monitor"
+  },
+  {
+    "transaction_id": "6b5277ff",
+    "customer_id": "cust_rule_000",
+    "risk_score": 100,
+    "risk_level": "Critical",
+    "reasons": [
+      "5 transactions within a 2-minute window"
+    ],
+    "action": "Manual Review"
+  },
+  {
+    "transaction_id": "0dca31d0",
+    "customer_id": "cust_rule_000",
+    "risk_score": 100,
+    "risk_level": "Critical",
+    "reasons": [
+      "6 transactions within a 2-minute window"
+    ],
+    "action": "Manual Review"
+  },
+  {
+    "transaction_id": "6575126d",
+    "customer_id": "cust_0065",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "e014183b",
+    "customer_id": "cust_0116",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "70947757",
+    "customer_id": "cust_0013",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "934b178b",
+    "customer_id": "cust_0032",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "abe1c8c9",
+    "customer_id": "cust_0067",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "45fe5397",
+    "customer_id": "cust_0030",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "2ef2ccf1",
+    "customer_id": "cust_0038",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "9e23c1e0",
+    "customer_id": "cust_0002",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "cf732719",
+    "customer_id": "cust_0111",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "0063a627",
+    "customer_id": "cust_0007",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "91a2a269",
+    "customer_id": "cust_0056",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "6a02610e",
+    "customer_id": "cust_0086",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "7770f4f5",
+    "customer_id": "cust_0097",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "33a3cd6a",
+    "customer_id": "cust_0064",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "78487e1e",
+    "customer_id": "cust_0058",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "ffc24a41",
+    "customer_id": "cust_0012",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "61ff2840",
+    "customer_id": "cust_0008",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "f2041104",
+    "customer_id": "cust_0036",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "0e9c176f",
+    "customer_id": "cust_0011",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "1a8b1a19",
+    "customer_id": "cust_rule_006",
+    "risk_score": 65,
+    "risk_level": "High",
+    "reasons": [
+      "Customer used 3 different channels within a short time window",
+      "6 transactions detected in a short time window",
+      "Transaction made from a device not seen before for this customer"
+    ],
+    "action": "Manual Review"
+  },
+  {
+    "transaction_id": "bfd40129",
+    "customer_id": "cust_rule_006",
+    "risk_score": 50,
+    "risk_level": "Medium",
+    "reasons": [
+      "Customer used 3 different channels within a short time window",
+      "6 transactions detected in a short time window"
+    ],
+    "action": "Monitor"
+  },
+  {
+    "transaction_id": "046975f4",
+    "customer_id": "cust_rule_006",
+    "risk_score": 50,
+    "risk_level": "Medium",
+    "reasons": [
+      "Customer used 3 different channels within a short time window",
+      "6 transactions detected in a short time window"
+    ],
+    "action": "Monitor"
+  },
+  {
+    "transaction_id": "7cb33e6a",
+    "customer_id": "cust_rule_006",
+    "risk_score": 50,
+    "risk_level": "Medium",
+    "reasons": [
+      "Customer used 3 different channels within a short time window",
+      "6 transactions detected in a short time window"
+    ],
+    "action": "Monitor"
+  },
+  {
+    "transaction_id": "041ea456",
+    "customer_id": "cust_rule_006",
+    "risk_score": 100,
+    "risk_level": "Critical",
+    "reasons": [
+      "5 transactions within a 2-minute window"
+    ],
+    "action": "Manual Review"
+  },
+  {
+    "transaction_id": "3b1d65ca",
+    "customer_id": "cust_rule_006",
+    "risk_score": 100,
+    "risk_level": "Critical",
+    "reasons": [
+      "6 transactions within a 2-minute window"
+    ],
+    "action": "Manual Review"
+  },
+  {
+    "transaction_id": "5273c9da",
+    "customer_id": "cust_0057",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "5aad4066",
+    "customer_id": "cust_0114",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "58054720",
+    "customer_id": "cust_0101",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "28281595",
+    "customer_id": "cust_0075",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "7cec59eb",
+    "customer_id": "cust_0079",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "039047a5",
+    "customer_id": "cust_0109",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "e12173cb",
+    "customer_id": "cust_0050",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "c41b1338",
+    "customer_id": "cust_0059",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "b8459fb3",
+    "customer_id": "cust_0079",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "c680306a",
+    "customer_id": "cust_0005",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "859362ec",
+    "customer_id": "cust_0090",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "5959a816",
+    "customer_id": "cust_0097",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "6e78bd81",
+    "customer_id": "cust_0016",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "9eaaf632",
+    "customer_id": "cust_0045",
+    "risk_score": 15,
+    "risk_level": "Low",
+    "reasons": [
+      "Transaction made from a device not seen before for this customer"
+    ],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "d08f10c2",
+    "customer_id": "cust_0076",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "618657ab",
+    "customer_id": "cust_0014",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "20c6a429",
+    "customer_id": "cust_0007",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "1f53218b",
+    "customer_id": "cust_0047",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "d423f832",
+    "customer_id": "cust_0078",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "36e68e0f",
+    "customer_id": "cust_0101",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "05c845cf",
+    "customer_id": "cust_0073",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "9a804566",
+    "customer_id": "cust_0022",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "073dbaab",
+    "customer_id": "cust_0034",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "010c4962",
+    "customer_id": "cust_0068",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "a69f0671",
+    "customer_id": "cust_0033",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "d57e1359",
+    "customer_id": "cust_0043",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "e1ab78bc",
+    "customer_id": "cust_0041",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "3e3add31",
+    "customer_id": "cust_0082",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "7495ca29",
+    "customer_id": "cust_0056",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "7cfa1a25",
+    "customer_id": "cust_0024",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "243d333e",
+    "customer_id": "cust_0000",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "62c2960d",
+    "customer_id": "cust_0013",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "980e6640",
+    "customer_id": "cust_0014",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "4cb3396e",
+    "customer_id": "cust_0020",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "9e30888c",
+    "customer_id": "cust_0020",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "afa97859",
+    "customer_id": "cust_0048",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "4d1f5369",
+    "customer_id": "cust_0088",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "2f846bb2",
+    "customer_id": "cust_0070",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "e382c484",
+    "customer_id": "cust_0067",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "da92627b",
+    "customer_id": "cust_0026",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "f1968ec1",
+    "customer_id": "cust_0093",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "4032a9b8",
+    "customer_id": "cust_0011",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "0616a815",
+    "customer_id": "cust_0017",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "50c78dc7",
+    "customer_id": "cust_0107",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "95530753",
+    "customer_id": "cust_0014",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "b6400d94",
+    "customer_id": "cust_0049",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "b682a076",
+    "customer_id": "cust_0004",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "6bac03b4",
+    "customer_id": "cust_0011",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "79b66fff",
+    "customer_id": "cust_0050",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "948bee54",
+    "customer_id": "cust_0024",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "302c8861",
+    "customer_id": "cust_0077",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "b8883c57",
+    "customer_id": "cust_0026",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "a6d95e77",
+    "customer_id": "cust_0106",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "86a67d0f",
+    "customer_id": "cust_0000",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "24c331b4",
+    "customer_id": "cust_0087",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "ba694b55",
+    "customer_id": "cust_0058",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "5e0127b9",
+    "customer_id": "cust_0080",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "4efbda54",
+    "customer_id": "cust_0039",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "fb9ddd01",
+    "customer_id": "cust_0106",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "28c2bd4a",
+    "customer_id": "cust_0106",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "d5981a89",
+    "customer_id": "cust_0062",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "0cb1251c",
+    "customer_id": "cust_0105",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "bc92a4a2",
+    "customer_id": "cust_0086",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "c1230f3d",
+    "customer_id": "cust_0030",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "ae981cb8",
+    "customer_id": "cust_0048",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "804ad1cb",
+    "customer_id": "cust_0079",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "e0f20784",
+    "customer_id": "cust_0064",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "0756c4fe",
+    "customer_id": "cust_0017",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "054f7da4",
+    "customer_id": "cust_0029",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "dbd37380",
+    "customer_id": "cust_0019",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "67d8f050",
+    "customer_id": "cust_0053",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "c5784118",
+    "customer_id": "cust_0043",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "cc978027",
+    "customer_id": "cust_0074",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "63c3a12e",
+    "customer_id": "cust_susp_010",
+    "risk_score": 45,
+    "risk_level": "Medium",
+    "reasons": [
+      "Customer used 3 different channels within a short time window",
+      "Transaction made from a device not seen before for this customer"
+    ],
+    "action": "Monitor"
+  },
+  {
+    "transaction_id": "b71cffe4",
+    "customer_id": "cust_susp_010",
+    "risk_score": 30,
+    "risk_level": "Medium",
+    "reasons": [
+      "Customer used 3 different channels within a short time window"
+    ],
+    "action": "Monitor"
+  },
+  {
+    "transaction_id": "25bfb424",
+    "customer_id": "cust_susp_010",
+    "risk_score": 30,
+    "risk_level": "Medium",
+    "reasons": [
+      "Customer used 3 different channels within a short time window"
+    ],
+    "action": "Monitor"
+  },
+  {
+    "transaction_id": "47c3f97e",
+    "customer_id": "cust_0009",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "46117a01",
+    "customer_id": "cust_0078",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "29a64091",
+    "customer_id": "cust_0091",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "20f3ac9d",
+    "customer_id": "cust_0023",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "6a550559",
+    "customer_id": "cust_0003",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "09c24b34",
+    "customer_id": "cust_0062",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "5b8cf0f6",
+    "customer_id": "cust_0104",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "6688e917",
+    "customer_id": "cust_0082",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "09ead862",
+    "customer_id": "cust_0017",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "2559fc70",
+    "customer_id": "cust_0066",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "32cdfb5f",
+    "customer_id": "cust_0088",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "a862e6c5",
+    "customer_id": "cust_0115",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "88eb2d1b",
+    "customer_id": "cust_0006",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "a2d6169a",
+    "customer_id": "cust_0071",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "76a7790e",
+    "customer_id": "cust_0095",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "1f0a0138",
+    "customer_id": "cust_0021",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "57e9d620",
+    "customer_id": "cust_0112",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "f1ce09af",
+    "customer_id": "cust_0040",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "52510eb4",
+    "customer_id": "cust_0086",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "e15f8268",
+    "customer_id": "cust_0102",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "1c9528fa",
+    "customer_id": "cust_0115",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "2ca91a32",
+    "customer_id": "cust_0091",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "4f0d2659",
+    "customer_id": "cust_0068",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "ba5d7c46",
+    "customer_id": "cust_0110",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "e090c7cd",
+    "customer_id": "cust_0059",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "3073bf2c",
+    "customer_id": "cust_0049",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "76af75e8",
+    "customer_id": "cust_0072",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "24928b94",
+    "customer_id": "cust_0084",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "8a31e518",
+    "customer_id": "cust_0112",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "7dbd7279",
+    "customer_id": "cust_0052",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "c742e0a1",
+    "customer_id": "cust_0002",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "11819982",
+    "customer_id": "cust_0042",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "3f8ed285",
+    "customer_id": "cust_0069",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "1de73fac",
+    "customer_id": "cust_0073",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "a5453665",
+    "customer_id": "cust_0058",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "94fa8951",
+    "customer_id": "cust_0001",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "37235294",
+    "customer_id": "cust_0022",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "deefe413",
+    "customer_id": "cust_0099",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "74b523b0",
+    "customer_id": "cust_0071",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "f44e92d8",
+    "customer_id": "cust_0047",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "e03b606b",
+    "customer_id": "cust_0025",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "39941169",
+    "customer_id": "cust_0045",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "502abc95",
+    "customer_id": "cust_0036",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "1ad12799",
+    "customer_id": "cust_0005",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "f7c8176e",
+    "customer_id": "cust_0087",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "13e6e85a",
+    "customer_id": "cust_0042",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "ac390048",
+    "customer_id": "cust_0065",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "6d890da1",
+    "customer_id": "cust_0018",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "5f131c64",
+    "customer_id": "cust_rule_001",
+    "risk_score": 100,
+    "risk_level": "Critical",
+    "reasons": [
+      "Beneficiary is on the blocklist"
+    ],
+    "action": "Manual Review"
+  },
+  {
+    "transaction_id": "026b0cfe",
+    "customer_id": "cust_0054",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "9fd90f9c",
+    "customer_id": "cust_0027",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "30eeca83",
+    "customer_id": "cust_0005",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "5137e6b5",
+    "customer_id": "cust_0045",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "77c6f8ec",
+    "customer_id": "cust_0071",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "99043cd2",
+    "customer_id": "cust_0003",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "a1094f4b",
+    "customer_id": "cust_0084",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "f2fd01ae",
+    "customer_id": "cust_0006",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "cdbff4c2",
+    "customer_id": "cust_0108",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "f9f6c3b3",
+    "customer_id": "cust_0032",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "fdd9fe10",
+    "customer_id": "cust_0041",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "c84c9cdf",
+    "customer_id": "cust_0013",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "e6742ba8",
+    "customer_id": "cust_0089",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "0484b0b2",
+    "customer_id": "cust_0016",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "78138f97",
+    "customer_id": "cust_0083",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "6ea6b6e1",
+    "customer_id": "cust_0072",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "b167f367",
+    "customer_id": "cust_0077",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "f2be2054",
+    "customer_id": "cust_0045",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "14467c6b",
+    "customer_id": "cust_0099",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "886058c9",
+    "customer_id": "cust_0023",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "355fc7e0",
+    "customer_id": "cust_0116",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "b995fa2e",
+    "customer_id": "cust_0095",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "9aeeffe8",
+    "customer_id": "cust_0066",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "7734b4ad",
+    "customer_id": "cust_0100",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "18a12a5e",
+    "customer_id": "cust_0024",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "410be1b1",
+    "customer_id": "cust_0016",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "d4b09129",
+    "customer_id": "cust_0007",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "64d8a95d",
+    "customer_id": "cust_0010",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "45e9f6e3",
+    "customer_id": "cust_0020",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "22728de2",
+    "customer_id": "cust_0046",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "523ea01d",
+    "customer_id": "cust_0098",
+    "risk_score": 15,
+    "risk_level": "Low",
+    "reasons": [
+      "Transaction made from a device not seen before for this customer"
+    ],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "6726a018",
+    "customer_id": "cust_0109",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "f4cc70dd",
+    "customer_id": "cust_0103",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "742e8abd",
+    "customer_id": "cust_rule_003",
+    "risk_score": 100,
+    "risk_level": "Critical",
+    "reasons": [
+      "Beneficiary is on the blocklist"
+    ],
+    "action": "Manual Review"
+  },
+  {
+    "transaction_id": "44f5c363",
+    "customer_id": "cust_0011",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "40a76abd",
+    "customer_id": "cust_0026",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "f6a3e081",
+    "customer_id": "cust_0063",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "837ebdf5",
+    "customer_id": "cust_0020",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "def3989a",
+    "customer_id": "cust_0110",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "580ed03c",
+    "customer_id": "cust_0037",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "a1641236",
+    "customer_id": "cust_0096",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "5eefeee4",
+    "customer_id": "cust_0116",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "ec6958d8",
+    "customer_id": "cust_0010",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "cf9b9da4",
+    "customer_id": "cust_0041",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "d1ed73fd",
+    "customer_id": "cust_0029",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "440deaca",
+    "customer_id": "cust_0077",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "174f51b7",
+    "customer_id": "cust_0095",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "1fd8f168",
+    "customer_id": "cust_0098",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "a82626f8",
+    "customer_id": "cust_0105",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "dc55a827",
+    "customer_id": "cust_0050",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "f510dcb1",
+    "customer_id": "cust_0118",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "1126ee00",
+    "customer_id": "cust_0094",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "81e61679",
+    "customer_id": "cust_0085",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "3b255454",
+    "customer_id": "cust_0088",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "47fd9597",
+    "customer_id": "cust_0068",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "268bc3d8",
+    "customer_id": "cust_0035",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "1e0eabd1",
+    "customer_id": "cust_0052",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "0880efe3",
+    "customer_id": "cust_0033",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "f541f020",
+    "customer_id": "cust_0006",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "289c0957",
+    "customer_id": "cust_0005",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "62003c4b",
+    "customer_id": "cust_0057",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "0185f969",
+    "customer_id": "cust_0111",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "d1c5171f",
+    "customer_id": "cust_0113",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "3a8e2861",
+    "customer_id": "cust_0115",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "092e7206",
+    "customer_id": "cust_0105",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "13d6e793",
+    "customer_id": "cust_0044",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "f2bbac2b",
+    "customer_id": "cust_0030",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "74e4c759",
+    "customer_id": "cust_0049",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "491db8bb",
+    "customer_id": "cust_0058",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "3fca30a8",
+    "customer_id": "cust_0118",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "e4d3d9b9",
+    "customer_id": "cust_0060",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "0daf6e0e",
+    "customer_id": "cust_0001",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "f8540022",
+    "customer_id": "cust_0048",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "ba3ccfed",
+    "customer_id": "cust_0078",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "4ee8a988",
+    "customer_id": "cust_0016",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "654ac407",
+    "customer_id": "cust_0087",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "de004cfe",
+    "customer_id": "cust_0106",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "8950ed26",
+    "customer_id": "cust_0043",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "0c5179a5",
+    "customer_id": "cust_0066",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "f52496e7",
+    "customer_id": "cust_0082",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "c085d09d",
+    "customer_id": "cust_0108",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "157a4515",
+    "customer_id": "cust_0065",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "1cd39c51",
+    "customer_id": "cust_0066",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "eff7b586",
+    "customer_id": "cust_0105",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "94c90b7e",
+    "customer_id": "cust_0035",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "a03cf15f",
+    "customer_id": "cust_0051",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "798c826d",
+    "customer_id": "cust_0013",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "78dea2da",
+    "customer_id": "cust_0039",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "acbc70aa",
+    "customer_id": "cust_0068",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "9e2d35b3",
+    "customer_id": "cust_0098",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "3cca075e",
+    "customer_id": "cust_0045",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  },
+  {
+    "transaction_id": "02e83728",
+    "customer_id": "cust_0039",
+    "risk_score": 0,
+    "risk_level": "Low",
+    "reasons": [],
+    "action": "Allow"
+  }
+]

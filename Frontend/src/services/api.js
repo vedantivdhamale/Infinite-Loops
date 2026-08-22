@@ -22,6 +22,27 @@ export async function scoreTransactions(transactions) {
 }
 
 /**
+ * Sends transactions to the backend to build customer risk profiles.
+ * @param {Array} transactions 
+ * @returns {Promise<Array>} Customer profiles
+ */
+export async function fetchCustomerProfiles(transactions) {
+  const response = await fetch(`${API_BASE_URL}/customer-profiles`, {
+    method: "POST",
+    headers: {
+      "Content-Type": "application/json"
+    },
+    body: JSON.stringify(transactions)
+  });
+
+  if (!response.ok) {
+    throw new Error(`API request failed: ${response.status}`);
+  }
+
+  return await response.json();
+}
+
+/**
  * Checks backend health status.
  * @returns {Promise<Object>} Health status
  */
@@ -34,3 +55,4 @@ export async function checkApiHealth() {
 
   return await response.json();
 }
+
