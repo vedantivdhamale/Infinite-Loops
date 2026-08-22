@@ -15,7 +15,7 @@ from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 import pandas as pd
 
-from scoring_engine import score_all
+from scoring_engine import score_all, build_customer_risk_profiles
 
 app = FastAPI(title="Cross-Channel Fraud Risk Scoring API")
 
@@ -42,6 +42,24 @@ def score(transactions: list[dict]):
     df = pd.DataFrame(transactions)
     results = score_all(df)
     return results
+
+
+@app.post("/customer-profiles")
+def customer_profiles(transactions: list[dict]):
+    """
+    Request body: same list of raw transactions as /score
+    Response: list of per-customer risk profiles, riskiest first:
+        {
+            "customer_id", "overall_risk_score", "overall_risk_level",
+            "total_transactions", "flagged_transactions",
+            "distinct_channels_used", "total_amount", "avg_amount",
+            "top_reasons", "recommended_action"
+        }
+    """
+    df = pd.DataFrame(transactions)
+    scored = score_all(df)
+    profiles = build_customer_risk_profiles(df, transaction_results=scored)
+    return profiles
 
 
 if __name__ == "__main__":

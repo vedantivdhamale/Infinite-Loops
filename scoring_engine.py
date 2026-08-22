@@ -138,6 +138,81 @@ def score_all(df):
     return [results_by_id[tid] for tid in original_order]
 
 
+def build_customer_risk_profiles(df, transaction_results=None):
+    """
+    Aggregates scored transactions into a per-customer risk profile.
+    This is what the "customer risk profiles" part of the problem statement
+    is asking for - a rollup view, not just a flat transaction list.
+
+    Expects df to have: transaction_id, customer_id, timestamp, channel,
+    amount, location, device_id, beneficiary_id.
+
+    Args:
+        df: raw transactions dataframe
+        transaction_results: optional, pass in the output of score_all(df) if
+            you already have it, to avoid re-scoring everything twice.
+
+    Returns:
+        list of dicts, one per customer, sorted by highest risk first:
+        {
+            "customer_id": str,
+            "overall_risk_score": int (0-100, the customer's MAX txn score),
+            "overall_risk_level": str,
+            "total_transactions": int,
+            "flagged_transactions": int (Medium/High/Critical count),
+            "distinct_channels_used": int,
+            "total_amount": float,
+            "avg_amount": float,
+            "top_reasons": list of str (deduped reasons across their txns),
+            "recommended_action": str
+        }
+    """
+    if transaction_results is None:
+        transaction_results = score_all(df)
+
+    results_df = pd.DataFrame(transaction_results)
+    df = df.copy()
+    df["timestamp"] = pd.to_datetime(df["timestamp"])
+
+    # merge raw transaction info (channel, amount) with scored results
+    merged = df.merge(
+        results_df[["transaction_id", "risk_score", "risk_level", "reasons", "action"]],
+        on="transaction_id",
+        how="left",
+    )
+
+    profiles = []
+    for customer_id, group in merged.groupby("customer_id"):
+        overall_score = int(group["risk_score"].max())
+        overall_level = bucket_risk(overall_score)
+
+        flagged_count = int((group["risk_level"] != "Low").sum())
+
+        # dedupe reasons across all this customer's transactions
+        all_reasons = []
+        for reasons_list in group["reasons"]:
+            for r in reasons_list:
+                if r not in all_reasons:
+                    all_reasons.append(r)
+
+        profiles.append({
+            "customer_id": customer_id,
+            "overall_risk_score": overall_score,
+            "overall_risk_level": overall_level,
+            "total_transactions": int(len(group)),
+            "flagged_transactions": flagged_count,
+            "distinct_channels_used": int(group["channel"].nunique()),
+            "total_amount": round(float(group["amount"].sum()), 2),
+            "avg_amount": round(float(group["amount"].mean()), 2),
+            "top_reasons": all_reasons[:5],  # cap so it stays readable in UI
+            "recommended_action": action_for_level(overall_level),
+        })
+
+    # riskiest customers first
+    profiles.sort(key=lambda p: p["overall_risk_score"], reverse=True)
+    return profiles
+
+
 if __name__ == "__main__":
     # Quick smoke test - run: python scoring_engine.py transactions.csv
     import json
