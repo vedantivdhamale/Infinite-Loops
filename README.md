@@ -33,7 +33,7 @@ This project builds both, wires them into a single risk score with human-readabl
 
 ## What This Project Does
 
-Your system's job: take a stream of transactions, and for each one, spit out:
+Your system's job: take a stream of transactions, and for each one, spit out: 
 
 - a risk score (0-100)
 - a risk level (Low / Medium / High / Critical)
